@@ -2,7 +2,7 @@
 
 ### Activity
 - Review prerequisite skills and knowledge
-- Discuss course focus and project goals
+- Discuss course focus and project goals in [Tweet Generator intro slides](slides/TweetGenerator.pdf)
 - Show examples of completed projects and similar websites
 
 ### Objectives
