@@ -11,7 +11,7 @@
 |:-----:|:---------------------:|:----------------------------------------:|
 |   1   |  Tuesday, October 24  | [Strings & Random Numbers](Class1.md)    |
 |   2   | Thursday, October 26  | [Histogram Data Structures](Class2.md)   |
-|   3   |  Tuesday, October 31  | Probability & Sampling      |
+|   3   |  Tuesday, October 31  | [Probability & Sampling](Class3.md)      |
 |   4   | Thursday, November 2  | Frequency-Based Sampling    |
 |   5   |  Tuesday, November 7  | Application Architecture    |
 |   6   | Thursday, November 9  | Generating Sentences        |
