@@ -24,3 +24,14 @@ Please follow these instructions *exactly* to correctly set up your fork of this
 
 1. When you want to access new course materials, first be sure you've committed and pushed your recent work (run `git status` to check) and then *pull* from the course's source repo with:
 `git pull course master`
+
+1. To earn credit towards your streak for commits to this repo, you'll need to create another repo on GitHub named `Tweet-Generator` (no `CS-2-` prefix) and **do not** initialize it with a ReadMe.
+
+1. Add that new GitHub repo as another URL to the `origin` remote on your local repo with:
+`git remote set-url --add origin https://github.com/<your-username>/Tweet-Generator.git`
+
+1. Verify that the `origin` remote has two distinct URLs with `(push)` after them with:
+`git remote -v`
+
+1. Now, after each time you complete a challenge and *commit* your work, you can *push* it to both remote GitHub repos with one simple command:
+`git push`
