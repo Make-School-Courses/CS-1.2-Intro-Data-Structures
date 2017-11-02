@@ -14,7 +14,7 @@ After completing this class session and the associated tutorial challenges, stud
 ### Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
-- Page 3: Analyze Word Frequency in Text
+- [Page 3: Analyze Word Frequency in Text]
     - Histogram (dictionary)
     - Histogram (list of lists)
     - Histogram (list of tuples)
@@ -22,10 +22,13 @@ Be sure to complete these before next class session and before starting on the s
 
 ### Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
-- Page 3: Analyze Word Frequency in Text
+- [Page 3: Analyze Word Frequency in Text]
     - Benchmark and optimize
     - Sort histogram entries by word or by count
     - Store the data in a histogram text file
 
 ### Resources
 - HackerRank's [Python challenges](https://www.hackerrank.com/domains/python/py-basic-data-types) – try the basic data types and strings sections
+
+
+[Page 3: Analyze Word Frequency in Text]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/analyze-word-frequency-in-text-372496dc-c68b-4752-b656-e32b69a3d45b
