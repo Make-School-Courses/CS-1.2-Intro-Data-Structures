@@ -2,6 +2,7 @@
 
 ### Activities
 - Compare histogram functions to `Dictogram` and `Listogram` class instance methods
+- Quick lecture and discussion on [how OOP actually works] under the hood
 - Lecture and discussion on building Markov chains and performing random walks
 
 ### Objectives
@@ -24,4 +25,5 @@ These challenges are more difficult and help you push your skills and understand
         - Add methods for constructing state histograms and sampling words
 
 
+[how OOP actually works]: https://docs.google.com/presentation/d/1A-8gNEH34PibhfYlA-Bn0OodZSbAE-z54XZXuSCDu7Y/edit
 [Page 7: Generating Sentences]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/generating-sentences-with-markov-chains
