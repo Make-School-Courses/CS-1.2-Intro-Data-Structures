@@ -16,7 +16,7 @@
 |   5   |  Tuesday, November 7  | [Application Architecture](Class5.md)    |
 |   6   | Thursday, November 9  | [Generating Sentences](Class6.md)        |
 |   7   |  Tuesday, November 14 | [Arrays & Linked Lists](Class7.md)       |
-|   8   | Thursday, November 16 | Hash Tables                 |
+|   8   | Thursday, November 16 | [Hash Tables](Class8.md)                 |
 |   9   |  Tuesday, November 28 | Algorithm Analysis          |
 |  10   | Thursday, November 30 | Higher Order Markov Chains |
 |  11   |  Tuesday, December 5  | Regular Expressions        |
