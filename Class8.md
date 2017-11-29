@@ -14,6 +14,14 @@ After completing this class session and the associated tutorial challenges, stud
 - Compare advantages and disadvantages of using hash tables versus arrays or linked lists
 - Implement essential hash table class instance methods
 
+### Resources
+- Review Make School's [hash table slides]
+- Watch Make School's [hash table video lecture]
+- Watch HackerRank's [hash table video]
+- Watch Harvard's [old hash table video] and [new hash table video]
+- Play with VisuAlgo's [interactive hash table visualization][VisuAlgo hash table]
+- Read Wikipedia's [hash table article]
+
 ### Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
@@ -38,15 +46,6 @@ These challenges are more difficult and help you push your skills and understand
     - Consider an alternative approach to calculate the `length` of the hash table that doesn't require bucket traversal and implement it, then benchmark its running time against the first approach on small and large hash tables
     - Implement an alternative hash table [collision resolution] strategy instead of [separate chaining] (like [linear probing]) and consider what advantages and disadvantages this approach has over chaining with linked lists
     - Write additional test cases to expand the [hash table unit tests] to ensure your collision resolution strategy is robust
-
-
-### Resources
-- Review Make School's [hash table slides]
-- Watch Make School's [hash table video lecture]
-- Watch HackerRank's [hash table video]
-- Watch Harvard's [old hash table video] and [new hash table video]
-- Play with VisuAlgo's [interactive hash table visualization][VisuAlgo hash table]
-- Read Wikipedia's [hash table article]
 
 
 [hash table slides]: slides/HashTables.pdf

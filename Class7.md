@@ -15,6 +15,14 @@ After completing this class session and the associated tutorial challenges, stud
 - Compare advantages and disadvantages of dynamic arrays with linked lists
 - Implement essential linked list class instance methods using node objects
 
+### Resources
+- Review Make School's [array and linked list slides]
+- Watch Make School's [array and linked list video lecture]
+- Watch HackerRank's [linked list video]
+- Watch Harvard's [array video], [singly linked list video], and [doubly linked list video]
+- Play with VisuAlgo's [interactive linked list visualization][VisuAlgo list]
+- Read Wikipedia's [dynamic array article] and [linked list article]
+
 ### Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
@@ -35,14 +43,6 @@ These challenges are more difficult and help you push your skills and understand
     - Want to make the `LinkedList` class more convenient to use? Add methods so that it can be used as an [iterable container], such as in a `for` loop
     - Consider an alternative approach to calculate the `length` of the linked list that doesn't require node traversal and implement it, then benchmark its running time against the first approach on short lists and long lists
     - Read about the [doubly linked list] structure and implement it in your own `DoublyLinkedList` class. What advantages and disadvantages does this structure have over a [singly linked list][linked list article]?
-
-### Resources
-- Review Make School's [array and linked list slides]
-- Watch Make School's [array and linked list video lecture]
-- Watch HackerRank's [linked list video]
-- Watch Harvard's [array video], [singly linked list video], and [doubly linked list video]
-- Play with VisuAlgo's [interactive visualization of linked lists][VisuAlgo list]
-- Read Wikipedia's [dynamic array article] and [linked list article]
 
 
 [array and linked list slides]:slides/ArraysLinkedLists.pdf
