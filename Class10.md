@@ -12,7 +12,10 @@ After completing this class session and the associated tutorial challenges, stud
 
 ### Resources
 - Read Victor Powell's [visual explanation of Markov chains] and play with the interactive animated diagrams
-- Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article], with great examples specific to this project (only the "Intro To Markov Models" section; we'll cover the topics in the "Further Markov Model Topics" section later in the course)
+- Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article], with great examples specific to this project (especially section B, "Further Markov Model Topics" and its subsection 3, "Bigger Windows" on creating higher order Markov chains)
+- Read Dataiku's [article on using Markov chains with backoff][Dataiku Markov article] to generate Donald Trump and Hillary Clinton quotes
+- Watch Make School's [Markov chains lecture]
+- Review Make School's [Markov chains slides]
 
 ### Challenges
 These challenges are the baseline required to complete the project and course.
@@ -33,11 +36,14 @@ These challenges are more difficult and help you push your skills and understand
         - Add methods for constructing state histograms and sampling words
     - Handle beginning and end of sentences with special start and stop tokens
     - Use a linked list as a queue to track words in Markov chain's *n*-gram window
-    - Implement circular buffer (fixed size queue)
-    - Implement deque (double-ended queue)
+    - Create a deque (double-ended queue) with a doubly-linked list
+    - Implement a circular buffer (fixed-size queue) with a fixed-size array
 
 
+[Markov chains lecture]: https://www.youtube.com/watch?v=dNaJg-mLobQ
+[Markov chains slides]: slides/MarkovChains.pdf
 [visual explanation of Markov chains]: http://setosa.io/blog/2014/07/26/markov-chains/
 [Dejeu Markov article]: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
+[Dataiku Markov article]: https://blog.dataiku.com/2016/10/08/machine-learning-markov-chains-generate-clinton-trump-quotes
 [Page 11: Markov Chains Revisited]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/markov-chains-revisited
 [Page 12: Creating a Corpus]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/creating-a-corpus
