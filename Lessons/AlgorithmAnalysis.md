@@ -61,5 +61,5 @@ These challenges are more difficult and help you push your skills and understand
 
 [Page 10: Performance Analysis]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/performance-analysis
 
-[linked list source code]: source/linkedlist.py
-[hash table source code]: source/hashtable.py
+[linked list source code]: ../Code/linkedlist.py
+[hash table source code]: ../Code/hashtable.py

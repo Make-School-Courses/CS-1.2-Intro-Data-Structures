@@ -59,5 +59,5 @@ These challenges are more difficult and help you push your skills and understand
 [Page 8: Linked List]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/linked-list
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter
 
-[linked list starter code]: source/linkedlist.py
-[linked list unit tests]: source/linkedlist_test.py
+[linked list starter code]: ../Code/linkedlist.py
+[linked list unit tests]: ../Code/linkedlist_test.py

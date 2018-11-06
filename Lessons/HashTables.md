@@ -65,5 +65,5 @@ These challenges are more difficult and help you push your skills and understand
 
 [Page 9: Hash Table]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/hash-table
 
-[hash table starter code]: source/hashtable.py
-[hash table unit tests]: source/hashtable_test.py
+[hash table starter code]: ../Code/hashtable.py
+[hash table unit tests]: ../Code/hashtable_test.py
