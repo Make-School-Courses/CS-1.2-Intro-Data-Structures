@@ -45,7 +45,7 @@ These challenges are more difficult and help you push your skills and understand
     - Read about the [doubly linked list] structure and implement it in your own `DoublyLinkedList` class. What advantages and disadvantages does this structure have over a [singly linked list][linked list article]?
 
 
-[array and linked list slides]:slides/ArraysLinkedLists.pdf
+[array and linked list slides]: ../Slides/ArraysLinkedLists.pdf
 [array and linked list video lecture]: https://www.youtube.com/watch?v=3WWuf4H61Nk
 [linked list video]: https://www.youtube.com/watch?v=njTh_OwMljA
 [array video]: https://www.youtube.com/watch?v=7EdaoE46BTI

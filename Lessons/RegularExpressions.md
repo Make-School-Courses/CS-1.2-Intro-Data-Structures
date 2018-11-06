@@ -45,7 +45,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [regular expressions lecture]: https://www.youtube.com/watch?v=roUtBDH3Obc
-[regular expressions slides]: slides/RegularExpressions.pdf
+[regular expressions slides]: ../Slides/RegularExpressions.pdf
 [regular expressions cheat sheet]: https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
 [UBC regex lab]: http://www.ugrad.cs.ubc.ca/~cs121/2015W1/Labs/Lab8/lab8.html
 [RegExr]: https://regexr.com/

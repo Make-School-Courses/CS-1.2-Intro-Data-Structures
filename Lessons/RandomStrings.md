@@ -2,7 +2,7 @@
 
 ### Activity
 - Review prerequisite skills and knowledge
-- Discuss course focus and project goals in [Tweet Generator intro slides](slides/TweetGenerator.pdf)
+- Discuss course focus and project goals in [Tweet Generator intro slides]
 - Show examples of completed projects and similar websites
 
 ### Objectives
@@ -15,7 +15,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Generate random integers in a range
 
 ### Challenges
-Visit Make School's [Online Academy](https://www.makeschool.com/academy) to find the [Tweet Generator tutorial](http://make.sc/oa-tweet-generator).
+Visit Make School's [Online Academy] to find the [Tweet Generator tutorial].
 
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
@@ -47,6 +47,10 @@ These challenges are more difficult and help you push your skills and understand
 - Interview Cake's [in-place shuffle interview problem](https://www.interviewcake.com/question/python/shuffle) – with helpful detailed hints
 - Google's [Python class](https://developers.google.com/edu/python/) – includes lecture videos and lots of practice exercises
 
+
+[Tweet Generator intro slides]: ../Slides/TweetGenerator.pdf
+[Online Academy]: https://www.makeschool.com/academy
+[Tweet Generator tutorial]: http://make.sc/oa-tweet-generator
 
 [Page 1: Let’s Get Started]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/let-s-get-started
 [Page 2: Random Dictionary Words]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/random-dictionary-words-0f05439f-f238-4cb7-9be4-535aefaf0f2f
