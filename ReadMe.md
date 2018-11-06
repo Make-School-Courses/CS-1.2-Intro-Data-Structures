@@ -12,22 +12,34 @@ A project based course that looks under the hood at data structures and algorith
 **Class Times:** Tuesday & Thursday 1:30-3:20pm or 3:30–5:20pm (14 class sessions)
 
 
-| Class |         Date          |                  Topics                  |
-|:-----:|:---------------------:|:----------------------------------------:|
-|   1   |  Tuesday, October 23  | [Strings & Random Numbers](Class1.md)    |
-|   2   | Thursday, October 25  | [Histogram Data Structures](Class2.md)   |
-|   3   |  Tuesday, October 30  | [Probability & Sampling](Class3.md)      |
-|   4   | Thursday, November 1  | [Flask Web App Development](Class4.md)   |
-|   5   |  Tuesday, November 6  | [Application Architecture](Class5.md)    |
-|   6   | Thursday, November 8  | [Generating Sentences](Class6.md)        |
-|   7   |  Tuesday, November 13 | [Arrays & Linked Lists](Class7.md)       |
-|   8   | Thursday, November 15 | [Hash Tables](Class8.md)                 |
-|   9   |  Tuesday, November 27 | [Algorithm Analysis](Class9.md)          |
-|  10   | Thursday, November 29 | [Higher Order Markov Chains](Class10.md) |
-|  11   |  Tuesday, December 4  | [Regular Expressions](Class11.md)        |
-|  12   | Thursday, December 6  | Parsing & Tokenization |
+| Class |         Date          |              Topics               |
+|:-----:|:---------------------:|:---------------------------------:|
+|   1   |  Tuesday, October 23  | [Strings & Random Numbers][]      |
+|   2   | Thursday, October 25  | [Histogram Data Structures][]     |
+|   3   |  Tuesday, October 30  | [Probability & Sampling][]        |
+|   4   | Thursday, November 1  | [Flask Web App Development][]     |
+|   5   |  Tuesday, November 6  | [Application Architecture][]      |
+|   6   | Thursday, November 8  | [Generating Sentences][]          |
+|   7   |  Tuesday, November 13 | [Arrays & Linked Lists][]         |
+|   8   | Thursday, November 15 | [Hash Tables][]                   |
+|   9   |  Tuesday, November 27 | [Algorithm Analysis][]            |
+|  10   | Thursday, November 29 | [Higher Order Markov Chains][]    |
+|  11   |  Tuesday, December 4  | [Regular Expressions][]           |
+|  12   | Thursday, December 6  | Parsing & Tokenization            |
 |  13   |  Tuesday, December 11 | Summative Assessment (Final Exam) |
 |  14   | Thursday, December 13 | *TBD* |
+
+[Strings & Random Numbers]: Lessons/RandomStrings.md
+[Histogram Data Structures]: Lessons/Histograms.md
+[Probability & Sampling]: Lessons/Probability.md
+[Flask Web App Development]: Lessons/FlaskWebApp.md
+[Application Architecture]: Lessons/Architecture.md
+[Generating Sentences]: Lessons/MarkovChains.md
+[Arrays & Linked Lists]: Lessons/ArraysLinkedLists.md
+[Hash Tables]: Lessons/HashTables.md
+[Algorithm Analysis]: Lessons/AlgorithmAnalysis.md
+[Higher Order Markov Chains]: Lessons/MarkovChains.md
+[Regular Expressions]: Lessons/RegularExpressions.md
 
 
 ## Course Specifics
