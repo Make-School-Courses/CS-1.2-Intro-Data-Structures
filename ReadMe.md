@@ -23,18 +23,18 @@ A project based course that looks under the hood at data structures and algorith
 |   7   |  Tuesday, November 13 | [Arrays & Linked Lists][]         |
 |   8   | Thursday, November 15 | [Hash Tables][]                   |
 |   9   |  Tuesday, November 27 | [Algorithm Analysis][]            |
-|  10   | Thursday, November 29 | [Higher Order Markov Chains][]    |
-|  11   |  Tuesday, December 4  | [Regular Expressions][]           |
-|  12   | Thursday, December 6  | Parsing & Tokenization            |
-|  13   |  Tuesday, December 11 | Summative Assessment (Final Exam) |
-|  14   | Thursday, December 13 | *TBD* |
+|  10   | Thursday, November 29 | Algorithm Analysis Continued      |
+|  11   |  Tuesday, December 4  | [Higher Order Markov Chains][]    |
+|  12   | Thursday, December 6  | [Regular Expressions][]           |
+|  13   |  Tuesday, December 11 | Written Assessment (Final Exam)   |
+|  14   | Thursday, December 13 | Parsing & Tokenization            |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
 [Probability & Sampling]: Lessons/Probability.md
 [Flask Web App Development]: Lessons/FlaskWebApp.md
 [Application Architecture]: Lessons/Architecture.md
-[Generating Sentences]: Lessons/MarkovChains.md
+[Generating Sentences]: Lessons/Sentences.md
 [Arrays & Linked Lists]: Lessons/ArraysLinkedLists.md
 [Hash Tables]: Lessons/HashTables.md
 [Algorithm Analysis]: Lessons/AlgorithmAnalysis.md
