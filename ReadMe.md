@@ -7,27 +7,26 @@ A project based course that looks under the hood at data structures and algorith
 
 ## Schedule
 
-**Term 2 Course Dates:** Monday, October 22 – Friday, December 14, 2018 (7 weeks)
+**Term 3 Course Dates:** Wednesday, January 23 – Wednesday, March 6, 2019
 
-**Class Times:** Tuesday & Thursday 1:30-3:20pm or 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday & Wednesday 3:30–5:20pm
 
 
-| Class |         Date          |              Topics               |
-|:-----:|:---------------------:|:---------------------------------:|
-|   1   |  Tuesday, October 23  | [Strings & Random Numbers][]      |
-|   2   | Thursday, October 25  | [Histogram Data Structures][]     |
-|   3   |  Tuesday, October 30  | [Probability & Sampling][]        |
-|   4   | Thursday, November 1  | [Flask Web App Development][]     |
-|   5   |  Tuesday, November 6  | [Application Architecture][]      |
-|   6   | Thursday, November 8  | [Generating Sentences][]          |
-|   7   |  Tuesday, November 13 | [Arrays & Linked Lists][]         |
-|   8   | Thursday, November 15 | [Hash Tables][]                   |
-|   9   |  Tuesday, November 27 | [Algorithm Analysis][]            |
-|  10   | Thursday, November 29 | Algorithm Analysis Continued      |
-|  11   |  Tuesday, December 4  | [Higher Order Markov Chains][]    |
-|  12   | Thursday, December 6  | [Regular Expressions][]           |
-|  13   |  Tuesday, December 11 | Written Assessment (Final Exam)   |
-|  14   | Thursday, December 13 | Parsing & Tokenization            |
+| Class |          Date          |              Topics               |
+|:-----:|:----------------------:|:---------------------------------:|
+|   1   | Wednesday, January 23  | [Strings & Random Numbers][]      |
+|   2   |    Monday, January 28  | [Histogram Data Structures][]     |
+|   3   | Wednesday, January 30  | [Probability & Sampling][]        |
+|   4   |    Monday, February 4  | [Flask Web App Development][]     |
+|   5   | Wednesday, February 6  | [Application Architecture][]      |
+|   6   |    Monday, February 11 | [Generating Sentences][]          |
+|   7   | Wednesday, February 13 | [Arrays & Linked Lists][]         |
+|   8   |   Tuesday, February 19 | [Hash Tables][]                   |
+|   9   | Wednesday, February 20 | Hash Tables Continued             |
+|  10   |    Monday, February 25 | [Algorithm Analysis][]            |
+|  11   | Wednesday, February 27 | [Higher Order Markov Chains][]    |
+|  12   |    Monday, March 4     | [Regular Expressions][]           |
+|  13   | Wednesday, March 6     | Written Assessment (Final Exam)   |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
