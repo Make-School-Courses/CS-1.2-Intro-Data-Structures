@@ -61,15 +61,13 @@ Students must pass the following course and demonstrate mastery of its competenc
 ## Learning Objectives
 
 By the end of this course, students will be able to:
--   write Python programs that read and write text files and manipulate strings
--   build web apps with the Flask framework and deploy to the web using Heroku
--   construct and sample probability distributions based on observed word frequencies
--   create Markov language models and use them to generate new sentences
--   write library code organized into separate independent modules with low coupling
--   run unit tests that assert functions and classes exhibit the correct behavior
--   implement core data structures including singly linked list and hash table
--   analyze complexity of iterative algorithms and data structures with visual loop counting
--   use regular expressions to parse and clean up text and tokenize words and sentences
+1.   Create Python programs that read and write text files and manipulate strings
+1.   Build web apps with the Flask framework and deploy to the web
+1.   Construct and sample probability distributions based on observed word frequencies
+1.   Create Markov language models and use them to generate new sentences
+1.   Use unit tests that assert correct behavior of functions and classes
+1.   Implement core data structures including singly linked lists and hash tables
+1.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
 
 
 ## Project Tutorial
