@@ -1,4 +1,4 @@
-- **[Syllabus](README.md)**
+- **[Syllabus](ReadMe.md)**
 - **Lessons**
   - [Strings & Random Numbers](Lessons/RandomStrings.md)
   - [Histogram Data Structures](Lessons/Histograms.md)
@@ -11,5 +11,5 @@
   - [Algorithm Analysis](Lessons/AlgorithmAnalysis.md)
   - [Higher Order Markov Chains](Lessons/MarkovChains.md)
   - [Regular Expressions](Lessons/RegularExpressions.md)
-- **[Tutorial](http://make.sc/oa-tweet-generator)**
+- **[Tutorial](https://make.sc/oa-tweet-generator)**
 - **[Project Rubric](https://make.sc/cs11-rubric)**
