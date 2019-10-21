@@ -5,29 +5,36 @@
 A project based course that looks under the hood at data structures and algorithms to see how they work. In addition to implementing these structures in an application; students will build them from scratch, analyze their complexity, and benchmark their performance to gain an understanding of their tradeoffs and when to use them in practice. Students will write scripts, functions, and library modules to use text processing tools like regular expressions, construct and sample probability distributions to create a Markov language model and gain insight into how grammar works and natural language processing techniques.
 
 
+## Repository Setup
+
+:warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
+
+
 ## Schedule
 
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
+**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (7.5 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+**Class Times:** Monday & Wednesday at 1:30-3:20pm (section A) or 3:30–5:20pm (section B)
 
 
-| Class |          Date          |              Topics               |
-|:-----:|:----------------------:|:---------------------------------:|
-|   1   | Tuesday, April 2  | [Strings & Random Numbers][]      |
-|   2   |    Thursday, April 4  | [Histogram Data Structures][]     |
-|   3   | Tuesday, April 9  | [Probability & Sampling][]        |
-|   4   |    Thursday, April 11  | [Flask Web App Development][]     |
-|   5   | Tuesday, April 16  | [Application Architecture][]      |
-|   6   |    Thursday, April 18 | [Generating Sentences][]          |
-|   7   | Tuesday, April 23 | [Arrays & Linked Lists][]         |
-|   8   |   Thursday, April 25 | [Hash Tables][]                   |
-|   9   | Tuesday, April 30 | Hash Tables Continued             |
-|  10   |    Thursday, May 2 | [Algorithm Analysis][]            |
-|  11   | Tuesday, May 7 | [Higher Order Markov Chains][]    |
-|  12   |    Thursday, May 9     | [Regular Expressions][]           |
-|  13   | Tuesday, May 14     | Final Class   |
-|  14   | Thursday, May 16     | Written Assessment (Final Exam)   |
+| Class |    Date     |              Topics               |
+|:-----:|:-----------:|:---------------------------------:|
+|   1   | Mon, Oct 21 | [Strings & Random Numbers][]      |
+|   2   | Wed, Oct 23 | [Histogram Data Structures][]     |
+|   3   | Mon, Oct 28 | [Probability & Sampling][]        |
+|   4   | Wed, Oct 30 | [Flask Web App Development][]     |
+|   5   | Mon, Nov  4 | [Application Architecture][]      |
+|   6   | Wed, Nov  6 | [Generating Sentences][]          |
+|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         |
+|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][] |
+|   9   | Mon, Nov 18 | [Hash Tables][]                   |
+|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] |
+|  11   | Mon, Nov 25 | Project Lab Day                   |
+|   –   | Wed, Nov 27 | *No Class (Thanksgiving Break)*   |
+|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    |
+|  13   | Wed, Dec  4 | [Regular Expressions][]           |
+|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       |
+|  15   | Wed, Dec 16 | *Final Exam (Tentative)*          |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -42,21 +49,10 @@ A project based course that looks under the hood at data structures and algorith
 [Regular Expressions]: Lessons/RegularExpressions.md
 
 
-## Course Specifics
-
--   Weeks to Completion: 7
--   Total Seat Hours: 37.5 hours
--   Total Out-of-Class Hours: 75 hours
--   Total Hours: 112.5 hours
--   Units: 3 units
--   Delivery Method: Residential
--   Class Sessions: 13 classes, 7 labs
-
-
 ## Prerequisites
 
 Students must pass the following course and demonstrate mastery of its competencies:
--   [CS 1.1: Programming Fundamentals](https://make.sc/cs11-repo)
+-   [CS 1.1: Programming Fundamentals](https://make.sc/cs11)
 
 
 ## Learning Objectives
@@ -108,8 +104,3 @@ Failure to improve after the PIP is cause for not being allowed to continue at M
 -   [Grading System](https://make.sc/grading-system)
 -   [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
 -   [Title IX Disclaimer](https://make.sc/title-ix-policy)
-
-
-## Repository Setup
-
-Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
