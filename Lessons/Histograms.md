@@ -3,7 +3,7 @@
 ## Activities
 - Compare code quality and techniques for rearranging words
 - Compare code quality for getting random dictionary words
-- Interactive code quiz on execution of Python scripts and modules
+- Refactor code to improve readability, modularity, and performance
 
 ## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...

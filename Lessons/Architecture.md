@@ -5,6 +5,7 @@
 - Compare code quality of functions based on length and responsibility
 - Discuss issues with ripple effects caused by tight [coupling] and ways to avoid it
 - Discuss advantages of classes and object-oriented programming (OOP)
+- Lecture and discussion on [how OOP actually works] under the hood
 
 ## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
@@ -52,6 +53,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [code review rubric]: http://make.sc/code-review-rubric
+[how OOP actually works]: https://docs.google.com/presentation/d/1n_BKzZ3Dhn3NoKpv05TlS2M-P0zNJRE2jJvnTxiD5bA/preview
 [Page 6: Application Architecture]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/application-architecture
 [coupling]: https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter

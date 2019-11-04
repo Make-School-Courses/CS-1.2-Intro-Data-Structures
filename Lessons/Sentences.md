@@ -2,7 +2,7 @@
 
 ## Activities
 - Compare histogram functions to `Dictogram` and `Listogram` class instance methods
-- Quick lecture and discussion on [how OOP actually works] under the hood
+- Discuss advantages of classes and object-oriented programming (OOP)
 - Lecture and discussion on building Markov chains and performing random walks
 
 ## Objectives
@@ -29,7 +29,6 @@ These challenges are more difficult and help you push your skills and understand
 - Read Victor Powell's [visual explanation of Markov chains] and play with the interactive animated diagrams
 - Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article], with great examples specific to this project (only the "Intro To Markov Models" section; we'll cover the topics in the "Further Markov Model Topics" section later in the course)
 
-[how OOP actually works]: https://docs.google.com/presentation/d/1A-8gNEH34PibhfYlA-Bn0OodZSbAE-z54XZXuSCDu7Y/edit
 [Page 7: Generating Sentences]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/generating-sentences-with-markov-chains
 [visual explanation of Markov chains]: http://setosa.io/blog/2014/07/26/markov-chains/
 [Dejeu Markov article]: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71

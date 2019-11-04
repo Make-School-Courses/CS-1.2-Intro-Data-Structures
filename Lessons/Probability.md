@@ -1,7 +1,7 @@
 # Probability & Sampling
 
 ## Activities
-- Compare code quality for getting random dictionary words
+- Compare code quality for histogram implementations
 - Refactor code to improve readability, modularity, and performance
 - Compare tradeoffs of different histogram implementations
 - Lecture and discussion following [probability and sampling slides]
