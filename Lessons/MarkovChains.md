@@ -41,7 +41,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [Markov chains lecture]: https://www.youtube.com/watch?v=dNaJg-mLobQ
-[Markov chains slides]: ../Slides/MarkovChains.pdf
+[Markov chains slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/MarkovChains.pdf
 [visual explanation of Markov chains]: http://setosa.io/blog/2014/07/26/markov-chains/
 [Dejeu Markov article]: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
 [Dataiku Markov article]: https://blog.dataiku.com/2016/10/08/machine-learning-markov-chains-generate-clinton-trump-quotes

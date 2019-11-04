@@ -48,7 +48,7 @@ These challenges are more difficult and help you push your skills and understand
 - Google's [Python class](https://developers.google.com/edu/python/) – includes lecture videos and lots of practice exercises
 
 
-[Tweet Generator intro slides]: ../Slides/TweetGenerator.pdf
+[Tweet Generator intro slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/TweetGenerator.pdf
 [Online Academy]: https://www.makeschool.com/academy
 [Tweet Generator tutorial]: http://make.sc/oa-tweet-generator
 

@@ -33,7 +33,7 @@ These challenges are more difficult and help you push your skills and understand
 - If you're *really* stuck, read the Python Cookbook's [Randomly Picking Items with Given Probabilities], but *don't read this until you've tried to solve it yourself*
 
 
-[probability and sampling slides]: ../Slides/Probability.pdf
+[probability and sampling slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/Probability.pdf
 [Page 4: Stochastic Sampling]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/stochastic-sampling-506e62a9-e8be-486f-8c72-486baa8c3454
 [random module]: https://docs.python.org/3/library/random.html
 [Randomly Picking Items with Given Probabilities]: https://www.safaribooksonline.com/library/view/python-cookbook-2nd/0596007973/ch04s22.html

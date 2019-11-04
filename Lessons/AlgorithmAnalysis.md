@@ -48,7 +48,7 @@ These challenges are more difficult and help you push your skills and understand
     - Benchmark the built-in `list` and `dict` types and compare to your `LinkedList` and `HashTable` classes
 
 
-[algorithm analysis slides]: ../Slides/AlgorithmAnalysis.pdf
+[algorithm analysis slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/AlgorithmAnalysis.pdf
 [big O notation video]: https://www.youtube.com/watch?v=v4cd1O4zkGw
 [asymptotic notation video]: https://www.youtube.com/watch?v=iOq5kSKqeR4
 [computational complexity video]: https://www.youtube.com/watch?v=IM9sHGlYV5A
