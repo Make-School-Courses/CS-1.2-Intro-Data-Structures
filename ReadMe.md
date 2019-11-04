@@ -1,4 +1,4 @@
-# CS 1.2: How Data Structures Work
+# CS 1.2: Intro to Data Structures
 
 ## Course Description
 
@@ -34,7 +34,7 @@ A project based course that looks under the hood at data structures and algorith
 |  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    |
 |  13   | Wed, Dec  4 | [Regular Expressions][]           |
 |  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       |
-|  15   | Wed, Dec 16 | *Final Exam (Tentative)*          |
+|  15   | Wed, Dec 11 | *Activity To Be Determined*       |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -79,7 +79,7 @@ To pass this course, students must meet the following requirements:
 -   Actively participate in class and abide by the attendance policy
 -   Make up all classwork from all absences
 -   Complete the required project tutorial
--   Pass the project according to the [associated project rubric](https://make.sc/cs11-rubric)
+-   Pass the project according to the [associated project rubric](https://make.sc/cs12-rubric)
 -   Pass the summative assessment (final exam)
 
 
