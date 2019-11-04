@@ -1,18 +1,18 @@
-## Class 5: Application Architecture
+# Application Architecture
 
-### Activities
+## Activities
 - Review code with partners and use [code review rubric] to assess quality
 - Compare code quality of functions based on length and responsibility
 - Discuss issues with ripple effects caused by tight [coupling] and ways to avoid it
 - Discuss advantages of classes and object-oriented programming (OOP)
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Assess aspects of code quality including organization and modularity
 - Refactor functions that use structures as class instance methods
 - Plan application architecture to prepare for future expansion
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 6: Application Architecture]
@@ -34,7 +34,7 @@ Be sure to complete these before next class session and before starting on the s
         - Run `pytest listogram_test.py` to run the [listogram unit tests] and fix any failures
     - Restructure code files and functions to be more modular and flexible
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 6: Application Architecture]
     - Organize other app functions and classes based on your answers to app architecture questions

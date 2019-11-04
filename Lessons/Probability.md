@@ -1,25 +1,25 @@
-## Class 3: Probability & Sampling
+# Probability & Sampling
 
-### Activities
+## Activities
 - Compare code quality for getting random dictionary words
 - Refactor code to improve readability, modularity, and performance
 - Compare tradeoffs of different histogram implementations
 - Lecture and discussion following [probability and sampling slides]
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Sample words according to their observed frequencies
 - Compare tradeoffs with different sampling techniques
 - Validate sampling techniques based on relative probabilities
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 4: Stochastic Sampling]
     - Sample words by observed frequency weighting
     - Test relative probabilities to validate sampling technique
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 4: Stochastic Sampling]
     - Optimize for speed of sampling (read time)
@@ -27,7 +27,7 @@ These challenges are more difficult and help you push your skills and understand
     - Solve with only lists and tuples
     - Combine other weighting techniques
 
-### Resources
+## Resources
 - Review Make School's [probability and sampling slides]
 - Consult Python's [random module] documentation, but *do not* use the `random.choices` function (the challenge is to implement this yourself)
 - If you're *really* stuck, read the Python Cookbook's [Randomly Picking Items with Given Probabilities], but *don't read this until you've tried to solve it yourself*

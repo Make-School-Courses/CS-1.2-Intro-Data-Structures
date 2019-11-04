@@ -1,17 +1,17 @@
-## Class 11: Regular Expressions
+# Regular Expressions
 
-### Activities
+## Activities
 - Code review implementations of higher order Markov chains
 - Review structures used to build Markov chain and discuss scalability
 - Lecture and discussion following [regular expressions slides]
 - Build and test regular expressions with [RegExr] and visualize them with [RegExper]
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Use regular expressions to clean up and remove junk text from corpus
 - Use regular expressions to create a more intelligent word tokenizer
 
-### Resources
+## Resources
 - Watch Make School's [regular expressions lecture]
 - Review Make School's [regular expressions slides]
 - Use Cheatography's [regular expressions cheat sheet] as a reference guide
@@ -20,7 +20,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Use [RegExper] to visualize railroad diagrams of regular expression patterns
 - Read StackOverflow answers to questions about using regular expressions to parse HTML: first [some comedic relief][SO match HTML tags] and then [an explanation of why you shouldn't][SO why not HTML]
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 13: Parsing Text and Clean Up]
@@ -33,7 +33,7 @@ Be sure to complete these before next class session and before starting on the s
     - Handle punctuation and hyphens (e.g., `Dr.`, `U.S.`, `can't`, `on-demand`, etc.)
     - Handle letter casing and capitalization (e.g., `turkey` and `Turkey`)
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 13: Parsing Text and Clean Up]
     - Make your parser code readable, then improve its organization and modularity so that it's easy to modify in the future

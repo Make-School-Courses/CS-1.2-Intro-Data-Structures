@@ -1,11 +1,11 @@
-## Class 1: Strings & Random Numbers
+# Strings & Random Numbers
 
-### Activity
+## Activity
 - Review prerequisite skills and knowledge
 - Discuss course focus and project goals in [Tweet Generator intro slides]
 - Show examples of completed projects and similar websites
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Create Python scripts and modules
 - Access command-line arguments
@@ -14,7 +14,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Store and access elements in a list
 - Generate random integers in a range
 
-### Challenges
+## Challenges
 Visit Make School's [Online Academy] to find the [Tweet Generator tutorial].
 
 These challenges are the baseline required to complete the project and course.
@@ -26,7 +26,7 @@ Be sure to complete these before next class session and before starting on the s
     - Generate random dictionary words
     - Benchmark and optimize for speed
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level. They are often found in the "Where to Go From Here" section at the bottom of most tutorial pages, although a few bonus challenges are only included here.
 - [Page 1: Let’s Get Started]
     - Reverse words/sentences
@@ -40,7 +40,7 @@ These challenges are more difficult and help you push your skills and understand
     - Write a script that imitates [`cowsay`](https://en.wikipedia.org/wiki/Cowsay) – install with `brew install cowsay`
     - Write your own shuffle function or implement the [Fisher–Yates shuffle](https://bost.ocks.org/mike/shuffle/)
 
-### Resources
+## Resources
 - Make School's [OOP coding challenge](http://hr.gs/ooptest) – covers classes, inheritance, and polymorphism
 - Code School's [Python tutorial](https://www.codeschool.com/courses/try-python) – gentle introduction with strings and conditionals
 - HackerRank's [Python challenges](https://www.hackerrank.com/domains/python/py-introduction) – try the basic data types and strings sections

@@ -1,23 +1,23 @@
-## Class 10: Higher Order Markov Chains
+# Higher Order Markov Chains
 
-### Activities
+## Activities
 - Code review implementations of hash table class instance methods
 - Lecture and discussion on building higher order Markov chains with larger window sizes
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Build higher order Markov chains based on observed frequency of *n*-grams (tuples of *n* words) in text
 - Generate sentences by sampling words by performing random walks on higher order Markov chain
 - Utilize a linked list as a queue to track words in a Markov chain's *n*-gram window
 
-### Resources
+## Resources
 - Read Victor Powell's [visual explanation of Markov chains] and play with the interactive animated diagrams
 - Read Alex Dejeu's [article on how Markov chains work][Dejeu Markov article], with great examples specific to this project (especially section B, "Further Markov Model Topics" and its subsection 3, "Bigger Windows" on creating higher order Markov chains)
 - Read Dataiku's [article on using Markov chains with backoff][Dataiku Markov article] to generate Donald Trump and Hillary Clinton quotes
 - Watch Make School's [Markov chains lecture]
 - Review Make School's [Markov chains slides]
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 11: Markov Chains Revisited]
@@ -28,7 +28,7 @@ Be sure to complete these before next class session and before starting on the s
     - Choose a source with at least 20,000 words (ideally, well over 100,000 words)
     - Collect your corpus (use Diffbot corpus collection script if needed)
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 11: Markov Chains Revisited]
     - Extend code used to build second order Markov chain to build *n*-th order Markov chain for varying values of *n* (from 1 up to ~5)

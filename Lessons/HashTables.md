@@ -1,12 +1,12 @@
-## Class 8: Hash Tables
+# Hash Tables
 
-### Activities
+## Activities
 - Draw diagram of how a linked list data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Code review implementations of linked list class instance methods
 - Lecture and discussion following [hash table slides]
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Describe what a hash function does to enable mapping arbitrary keys to integers
 - Describe and diagram how a hash table uses arrays and linked lists to store key-value entries
@@ -14,7 +14,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Compare advantages and disadvantages of using hash tables versus arrays or linked lists
 - Implement essential hash table class instance methods
 
-### Resources
+## Resources
 - Review Make School's [hash table slides]
 - Watch Make School's [hash table video lecture]
 - Watch HackerRank's [hash table video]
@@ -22,7 +22,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Play with VisuAlgo's [interactive hash table visualization][VisuAlgo hash table]
 - Read Wikipedia's [hash table article]
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 9: Hash Table]
@@ -38,7 +38,7 @@ Be sure to complete these before next class session and before starting on the s
     - Run `python hashtable.py` to test `HashTable` class instance methods on a small example
     - Run `pytest hashtable_test.py` to run the [hash table unit tests] and fix any failures
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 9: Hash Table]
     - Add several magic methods to allow subscripting syntax like the [Python `dict` type]

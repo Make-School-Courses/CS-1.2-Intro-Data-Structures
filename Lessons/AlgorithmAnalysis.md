@@ -1,6 +1,6 @@
-## Class 9: Algorithm Analysis
+# Algorithm Analysis
 
-### Activities
+## Activities
 - Draw diagram of how a hash table data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Form teams and collaboratively draw more complete hash table diagrams
@@ -8,14 +8,14 @@
 - Read and discuss [article on algorithm analysis and big O notation][IC big O]
 - Code review implementations of hash table class instance methods
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Describe and diagram in detail how a hash table uses arrays and linked lists to store key-value entries
 - Explain how to add a new key-value entry to a hash table and how to get the value associated with a given key
 - Identify key ingredients used to build a hash table: hash function, indexed array of buckets, and linked lists to store multiple key-value entries per bucket
 - Perform basic analysis of algorithm time complexity with big O notation
 
-### Resources
+## Resources
 - Review Make School's [algorithm analysis slides]
 - Read Interview Cake's [article on the idea behind big O notation][IC big O]
 - Read Stack Overflow's [plain English explanations of big O notation][SO big O]
@@ -23,7 +23,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Watch HackerRank's [big O notation video]
 - Watch Harvard's [asymptotic notation video] and [computational complexity video]
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - Annotate these `LinkedList` class instance methods with time complexity analysis:
@@ -41,7 +41,7 @@ Be sure to complete these before next class session and before starting on the s
     - `set(key, value)`
     - `delete(key)`
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 10: Performance Analysis]
     - Benchmark the running time performance of your `LinkedList` and `HashTable` data structures with varying size using the [`timeit` module]

@@ -1,13 +1,13 @@
-## Class 7: Arrays & Linked Lists
+# Arrays & Linked Lists
 
-### Activities
+## Activities
 - Draw diagram of your Markov chain mental model and related data structures
 - Compare and contrast diagram representations and code organization with partners
 - Review how to build a Markov chain from text and generate sentences from it
 - Lecture and discussion following [array and linked list slides]
 - Act out how dynamic array and linked list data structures and algorithms work
 
-### Objectives
+## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
 - Diagram abstract concepts implemented with nested data structures
 - Describe and diagram how arrays and linked lists are stored in memory
@@ -15,7 +15,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Compare advantages and disadvantages of dynamic arrays with linked lists
 - Implement essential linked list class instance methods using node objects
 
-### Resources
+## Resources
 - Review Make School's [array and linked list slides]
 - Watch Make School's [array and linked list video lecture]
 - Watch HackerRank's [linked list video]
@@ -23,7 +23,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Play with VisuAlgo's [interactive linked list visualization][VisuAlgo list]
 - Read Wikipedia's [dynamic array article] and [linked list article]
 
-### Challenges
+## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 8: Linked List]
@@ -36,7 +36,7 @@ Be sure to complete these before next class session and before starting on the s
     - Run `python linkedlist.py` to test `LinkedList` class instance methods on a small example
     - Run `pytest linkedlist_test.py` to run the [linked list unit tests] and fix any failures
 
-### Stretch Challenges
+## Stretch Challenges
 These challenges are more difficult and help you push your skills and understanding to the next level.
 - [Page 8: Linked List]
     - Implement `replace(old_item, new_item)` - replaces `old_item` in the list with `new_item` without creating a new node
