@@ -12,4 +12,5 @@
   - [Higher Order Markov Chains](Lessons/MarkovChains.md)
   - [Regular Expressions](Lessons/RegularExpressions.md)
 - **[Tutorial](https://make.sc/oa-tweet-generator)**
-- **[Project Rubric](https://make.sc/cs11-rubric)**
+- **[Project Rubric](https://make.sc/cs12-rubric)**
+- **[Progress Tracker](https://make.sc/cs12-progress)**
