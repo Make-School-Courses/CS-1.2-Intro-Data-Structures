@@ -4,7 +4,9 @@
 - Compare code quality for histogram implementations
 - Refactor code to improve readability, modularity, and performance
 - Compare tradeoffs of different histogram implementations
+    - Watch [video of histogram comparison whiteboard activity]
 - Lecture and discussion following [probability and sampling slides]
+    - Watch [video of probability and sampling lecture]
 
 ## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
@@ -33,6 +35,8 @@ These challenges are more difficult and help you push your skills and understand
 - If you're *really* stuck, read the Python Cookbook's [Randomly Picking Items with Given Probabilities], but *don't read this until you've tried to solve it yourself*
 
 
+[video of histogram comparison whiteboard activity]: https://www.youtube.com/watch?v=w0F7gZbSoHg
+[video of probability and sampling lecture]: https://www.youtube.com/watch?v=-fq36v2KjR8
 [probability and sampling slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/Probability.pdf
 [Page 4: Stochastic Sampling]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/stochastic-sampling-506e62a9-e8be-486f-8c72-486baa8c3454
 [random module]: https://docs.python.org/3/library/random.html

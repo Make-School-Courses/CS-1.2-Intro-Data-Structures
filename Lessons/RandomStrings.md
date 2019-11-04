@@ -3,6 +3,7 @@
 ## Activity
 - Review prerequisite skills and knowledge
 - Discuss course focus and project goals in [Tweet Generator intro slides]
+    - Watch [video of course and project kickoff]
 - Show examples of completed projects and similar websites
 
 ## Objectives
@@ -48,6 +49,7 @@ These challenges are more difficult and help you push your skills and understand
 - Google's [Python class](https://developers.google.com/edu/python/) – includes lecture videos and lots of practice exercises
 
 
+[video of course and project kickoff]: https://www.youtube.com/watch?v=Ka4QT1OxzdI
 [Tweet Generator intro slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/TweetGenerator.pdf
 [Online Academy]: https://www.makeschool.com/academy
 [Tweet Generator tutorial]: http://make.sc/oa-tweet-generator

@@ -3,6 +3,7 @@
 ## Activities
 - Compare implementations for sampling words based on observed frequency
 - Visualize how sampling algorithms work by drawing pictures with a number line
+    - Watch [video of sampling algorithms whiteboard activity]
 - Discuss tradeoffs of different sampling techniques based on histogram implementations
 
 ## Objectives
@@ -37,6 +38,7 @@ These challenges are more difficult and help you push your skills and understand
 - Install the [Heroku command line interface][Heroku CLI] to manage Heroku apps from your terminal
 
 
+[video of sampling algorithms whiteboard activity]: https://www.youtube.com/watch?v=C0jk6HLj6Tk
 [Page 5: Flask Web App]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/flask-web-app-ea916e69-cf94-4a51-8fa6-9d4ac013da65
 [virtual environments]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
 [`virtualenv` tool]: https://virtualenv.pypa.io/en/stable/
