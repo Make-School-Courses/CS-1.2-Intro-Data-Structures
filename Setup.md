@@ -1,12 +1,12 @@
 ## Repository Setup Instructions
 
 The course's *upstream* repository (located at `https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures`) contains course materials including the schedule, class topics, tutorial milestones, challenges, starter code, unit tests, slides, and links to resources.
-It will be continuously updated throughout the course, so you will need to regularly *pull* from it to get new materials.
+It will be updated throughout the course, so you will need to regularly *pull* from it to get new materials.
 (Note that you cannot *push* to the course's upstream repository.)
-However, you can *fork* it to create a copy and push code to your own fork.
+However, you can *clone* this repo to get upstream changes and also push your code to your own repo.
 
 **Important:**
-Please follow these instructions *exactly* to correctly set up your fork of this repository. If you skip a step or do them out of order, it may not work.
+Please follow these instructions *exactly* to correctly set up your clone of this repository. If you skip a step or do them out of order, it may not work.
 
 **Step 1:**
 Set up your local clone of this course repo on your computer.
