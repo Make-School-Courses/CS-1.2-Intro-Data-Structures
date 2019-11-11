@@ -17,24 +17,24 @@ A project based course that looks under the hood at data structures and algorith
 **Class Times:** Monday & Wednesday at 1:30-3:20pm (section A) or 3:30–5:20pm (section B)
 
 
-| Class |    Date     |              Topics               |
-|:-----:|:-----------:|:---------------------------------:|
+| Class |    Date     |           Lesson Topics           |   Deliverable Due or Quiz   |
+|:-----:|:-----------:|:----------------------------------|:----------------------------|
 |   1   | Mon, Oct 21 | [Strings & Random Numbers][]      |
 |   2   | Wed, Oct 23 | [Histogram Data Structures][]     |
 |   3   | Mon, Oct 28 | [Probability & Sampling][]        |
 |   4   | Wed, Oct 30 | [Flask Web App Development][]     |
 |   5   | Mon, Nov  4 | [Application Architecture][]      |
 |   6   | Wed, Nov  6 | [Generating Sentences][]          |
-|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         |
-|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][] |
-|   9   | Mon, Nov 18 | [Hash Tables][]                   |
-|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] |
-|  11   | Mon, Nov 25 | Project Lab Day                   |
+|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         | Due: Project Check-in       |
+|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| Quiz: Histograms & Markov Chains|
+|   9   | Mon, Nov 18 | [Hash Tables][]                   | Due: Linked List Challenges |
+|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] | Quiz: Arrays & Linked Lists          |
+|  11   | Mon, Nov 25 | Project Lab Day                   | Due: Hash Table Challenges  |
 |   –   | Wed, Nov 27 | *No Class (Thanksgiving Break)*   |
-|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    |
+|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | Quiz: Hash Tables           |
 |  13   | Wed, Dec  4 | [Regular Expressions][]           |
-|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       |
-|  15   | Wed, Dec 11 | *Activity To Be Determined*       |
+|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | Quiz: Higher Order Markov Chains
+|  15   | Wed, Dec 11 | *Activity To Be Determined*       | Due: Final Project          |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -47,6 +47,30 @@ A project based course that looks under the hood at data structures and algorith
 [Algorithm Analysis]: Lessons/AlgorithmAnalysis.md
 [Higher Order Markov Chains]: Lessons/MarkovChains.md
 [Regular Expressions]: Lessons/RegularExpressions.md
+
+
+### Deliverable Schedule
+
+|        Deliverable         | Date Started |  Date Due   |       Submission Form       |
+|:---------------------------|:------------:|:-----------:|:----------------------------|
+| [Project Check-in][]       | Mon, Oct 21  | Mon, Nov 11 | [Submit Project Check-in][] |
+| [Linked List Challenges][] | Mon, Nov 11  | Mon, Nov 18 | [Submit Linked List][]      |
+| [Hash Table Challenges][]  | Mon, Nov 18  | Mon, Nov 25 | [Submit Hash Table][]       |
+| [Final Project][]          | Mon, Oct 21  | Wed, Dec 11 | [Submit Final Project][]    |
+
+Read the [project rubric][] before the due date to ensure your code meets all expectations.
+
+[Project Check-in]: Lessons/FlaskWebApp.md
+[Linked List Challenges]: Lessons/ArraysLinkedLists.md#Challenges
+[Hash Table Challenges]: Lessons/HashTables.md#Challenges
+[Final Project]: Lessons/MarkovChains.md
+
+[Submit Project Check-in]: https://make.sc/submit-tweet-generator-1
+[Submit Linked List]: https://make.sc/submit-linked-list
+[Submit Hash Table]: https://make.sc/submit-hash-table
+[Submit Final Project]: https://make.sc/submit-tweet-generator
+
+[project rubric]: https://make.sc/cs12-rubric
 
 
 ## Prerequisites
@@ -79,8 +103,8 @@ To pass this course, students must meet the following requirements:
 -   Actively participate in class and abide by the attendance policy
 -   Make up all classwork from all absences
 -   Complete the required project tutorial
--   Pass the project according to the [associated project rubric](https://make.sc/cs12-rubric)
--   Pass the summative assessment (final exam)
+-   Pass the project according to the associated [project rubric][]
+-   Pass the summative assessment (total of all quiz scores)
 
 
 ## Attendance
