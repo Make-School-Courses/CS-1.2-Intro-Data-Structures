@@ -1,11 +1,17 @@
 # Algorithm Analysis
 
-## Activities
+## Linked List Activities
+- Complete [linked list worksheet]
+- Draw diagram of how a linked list data structure is stored in memory
+- Compare and contrast diagram representations with partners
+- Code review implementations of linked list class instance methods
+- Read and discuss [article on algorithm analysis and big O notation][IC big O]
+
+## Hash Table Activities
 - Draw diagram of how a hash table data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Form teams and collaboratively draw more complete hash table diagrams
 - Review merits of each diagram's faithfulness to actual memory organization
-- Read and discuss [article on algorithm analysis and big O notation][IC big O]
 - Code review implementations of hash table class instance methods
 
 ## Objectives
@@ -26,6 +32,8 @@ After completing this class session and the associated tutorial challenges, stud
 ## Challenges
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
+
+### Linked List Challenges
 - Annotate these `LinkedList` class instance methods with time complexity analysis:
     - `length()`
     - `append(item)`
@@ -33,6 +41,8 @@ Be sure to complete these before next class session and before starting on the s
     - `find(quality)`
     - `delete(item)`
     - See the `items()` instance method for an example annotation
+
+### Hash Table Challenges
 - Annotate these `HashTable` class instance methods with time complexity analysis:
     - `length()`
     - `items()`
@@ -48,6 +58,7 @@ These challenges are more difficult and help you push your skills and understand
     - Benchmark the built-in `list` and `dict` types and compare to your `LinkedList` and `HashTable` classes
 
 
+[linked list worksheet]: https://make.sc/linked-list-worksheet
 [algorithm analysis slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/AlgorithmAnalysis.pdf
 [big O notation video]: https://www.youtube.com/watch?v=v4cd1O4zkGw
 [asymptotic notation video]: https://www.youtube.com/watch?v=iOq5kSKqeR4

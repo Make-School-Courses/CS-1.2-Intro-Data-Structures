@@ -1,9 +1,6 @@
 # Hash Tables
 
 ## Activities
-- Draw diagram of how a linked list data structure is stored in memory
-- Compare and contrast diagram representations with partners
-- Code review implementations of linked list class instance methods
 - Lecture and discussion following [hash table slides]
 
 ## Objectives
