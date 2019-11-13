@@ -1,10 +1,13 @@
 # Arrays & Linked Lists
 
 ## Activities
+- Complete [histogram, Markov chain and sampling worksheet]
+    - Watch [video of histogram, Markov chain, and sampling worksheet review]
 - Draw diagram of your Markov chain mental model and related data structures
 - Compare and contrast diagram representations and code organization with partners
 - Review how to build a Markov chain from text and generate sentences from it
 - Lecture and discussion following [array and linked list slides]
+    - Watch [video of array and linked list lecture]
 - Act out how dynamic array and linked list data structures and algorithms work
 
 ## Objectives
@@ -45,6 +48,9 @@ These challenges are more difficult and help you push your skills and understand
     - Read about the [doubly linked list] structure and implement it in your own `DoublyLinkedList` class. What advantages and disadvantages does this structure have over a [singly linked list][linked list article]?
 
 
+[histogram, Markov chain and sampling worksheet]: https://make.sc/histogram-worksheet
+[video of histogram, Markov chain, and sampling worksheet review]: https://www.youtube.com/watch?v=ZnfqxrXrXKQ
+[video of array and linked list lecture]: https://www.youtube.com/watch?v=3RQ3ueNSb3k
 [array and linked list slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/ArraysLinkedLists.pdf
 [array and linked list video lecture]: https://www.youtube.com/watch?v=3WWuf4H61Nk
 [linked list video]: https://www.youtube.com/watch?v=njTh_OwMljA
