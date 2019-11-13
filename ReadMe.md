@@ -25,16 +25,16 @@ A project based course that looks under the hood at data structures and algorith
 |   4   | Wed, Oct 30 | [Flask Web App Development][]     |
 |   5   | Mon, Nov  4 | [Application Architecture][]      |
 |   6   | Wed, Nov  6 | [Generating Sentences][]          |
-|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         | Due: Project Check-in       |
-|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| Quiz: Histograms & Markov Chains|
-|   9   | Mon, Nov 18 | [Hash Tables][]                   | Due: Linked List Challenges |
-|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] | Quiz: Arrays & Linked Lists          |
-|  11   | Mon, Nov 25 | Project Lab Day                   | Due: Hash Table Challenges  |
+|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         | [Due]: Project Check-in       |
+|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| [Quiz]: Histograms & Markov Chains|
+|   9   | Mon, Nov 18 | [Hash Tables][]                   | [Due]: Linked List Challenges |
+|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] | [Quiz]: Arrays & Linked Lists |
+|  11   | Mon, Nov 25 | Project Lab Day                   | [Due]: Hash Table Challenges  |
 |   –   | Wed, Nov 27 | *No Class (Thanksgiving Break)*   |
-|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | Quiz: Hash Tables           |
+|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | [Quiz]: Hash Tables           |
 |  13   | Wed, Dec  4 | [Regular Expressions][]           |
-|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | Quiz: Higher Order Markov Chains
-|  15   | Wed, Dec 11 | *Activity To Be Determined*       | Due: Final Project          |
+|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | [Quiz]: Higher Order Markov Chains
+|  15   | Wed, Dec 11 | *Activity To Be Determined*       | [Due]: Final Project          |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -47,6 +47,9 @@ A project based course that looks under the hood at data structures and algorith
 [Algorithm Analysis]: Lessons/AlgorithmAnalysis.md
 [Higher Order Markov Chains]: Lessons/MarkovChains.md
 [Regular Expressions]: Lessons/RegularExpressions.md
+
+[Due]: ReadMe.md#Deliverable-Schedule
+[Quiz]: https://make.sc/cs12-quiz-study-guides
 
 
 ### Deliverable Schedule
@@ -94,7 +97,7 @@ By the end of this course, students will be able to:
 ## Project Tutorial
 
 Students will complete the following guided project tutorial in this course:
--   [Tweet Generator: Data Structures & Probability with Python](http://make.sc/oa-tweet-generator)
+-   [Tweet Generator: Data Structures & Probability with Python](https://make.sc/tweet-generator)
 
 
 ## Evaluation
@@ -105,6 +108,9 @@ To pass this course, students must meet the following requirements:
 -   Complete the required project tutorial
 -   Pass the project according to the associated [project rubric][]
 -   Pass the summative assessment (total of all quiz scores)
+    - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best lesson activities, slides, and resources to review while preparing
+
+[quiz study guides]: https://make.sc/cs12-quiz-study-guides
 
 
 ## Attendance
