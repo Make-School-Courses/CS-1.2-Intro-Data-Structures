@@ -1,7 +1,9 @@
 # Hash Tables
 
 ## Activities
+- Complete [linked list time complexity worksheet]
 - Lecture and discussion following [hash table slides]
+- Act out how hash table data structure and algorithms work
 
 ## Objectives
 After completing this class session and the associated tutorial challenges, students will be able to ...
@@ -45,6 +47,7 @@ These challenges are more difficult and help you push your skills and understand
     - Write additional test cases to expand the [hash table unit tests] to ensure your collision resolution strategy is robust
 
 
+[linked list time complexity worksheet]: https://make.sc/linked-list-time-complexity-worksheet
 [hash table slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.pdf
 [hash table video lecture]: https://www.youtube.com/watch?v=nLWXJ6IDKmQ
 [hash table video]: https://www.youtube.com/watch?v=shs0KM3wKv8
