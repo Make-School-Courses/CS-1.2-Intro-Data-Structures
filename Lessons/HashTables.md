@@ -2,7 +2,9 @@
 
 ## Activities
 - Complete [linked list time complexity worksheet]
+    - Watch [video of linked list time complexity worksheet review]
 - Lecture and discussion following [hash table slides]
+    - Watch [video of hash table lecture]
 - Act out how hash table data structure and algorithms work
 
 ## Objectives
@@ -48,6 +50,8 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [linked list time complexity worksheet]: https://make.sc/linked-list-time-complexity-worksheet
+[video of linked list time complexity worksheet review]: https://www.youtube.com/watch?v=ZGtkVO6XlmQ
+[video of hash table lecture]: https://www.youtube.com/watch?v=drQ_FfCVxFU
 [hash table slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.pdf
 [hash table video lecture]: https://www.youtube.com/watch?v=nLWXJ6IDKmQ
 [hash table video]: https://www.youtube.com/watch?v=shs0KM3wKv8
