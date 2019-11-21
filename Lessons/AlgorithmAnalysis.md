@@ -2,12 +2,15 @@
 
 ## Linked List Activities
 - Complete [linked list worksheet]
+    - When finished, compare your answers to [linked list worksheet solutions]
 - Draw diagram of how a linked list data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Code review implementations of linked list class instance methods
 - Read and discuss [article on algorithm analysis and big O notation][IC big O]
 
 ## Hash Table Activities
+- Complete [hash table worksheet]
+    - When finished, compare your answers to [hash table worksheet solutions]
 - Draw diagram of how a hash table data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Form teams and collaboratively draw more complete hash table diagrams
@@ -59,6 +62,9 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [linked list worksheet]: https://make.sc/linked-list-worksheet
+[linked list worksheet solutions]: https://make.sc/linked-list-worksheet-solutions
+[hash table worksheet]: https://make.sc/hash-table-worksheet
+[hash table worksheet solutions]: https://make.sc/hash-table-worksheet-solutions
 [algorithm analysis slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/AlgorithmAnalysis.pdf
 [big O notation video]: https://www.youtube.com/watch?v=v4cd1O4zkGw
 [asymptotic notation video]: https://www.youtube.com/watch?v=iOq5kSKqeR4
