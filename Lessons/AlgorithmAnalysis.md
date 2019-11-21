@@ -32,6 +32,7 @@ After completing this class session and the associated tutorial challenges, stud
 - Read Justin Abrams's [article on big O notation explained by a self-taught programmer][JA big O]
 - Watch HackerRank's [big O notation video]
 - Watch Harvard's [asymptotic notation video] and [computational complexity video]
+- Play with VisuAlgo's [interactive linked list][VisuAlgo list] and [hash table visualizations][VisuAlgo hash table]
 
 ## Challenges
 These challenges are the baseline required to complete the project and course.
@@ -74,6 +75,8 @@ These challenges are more difficult and help you push your skills and understand
 [IC big O]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity
 [SO big O]: https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
 [JA big O]: https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+[VisuAlgo list]: https://visualgo.net/list
+[VisuAlgo hash table]: https://visualgo.net/hashtable
 
 [`time` module]: https://docs.python.org/3/library/time.html
 [`timeit` module]: https://docs.python.org/3/library/timeit.html
