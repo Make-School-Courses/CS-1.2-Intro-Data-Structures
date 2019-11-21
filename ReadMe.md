@@ -25,16 +25,16 @@ A project based course that looks under the hood at data structures and algorith
 |   4   | Wed, Oct 30 | [Flask Web App Development][]     |
 |   5   | Mon, Nov  4 | [Application Architecture][]      |
 |   6   | Wed, Nov  6 | [Generating Sentences][]          |
-|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         | [Due]: Project Check-in       |
-|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| [Quiz]: Histograms & Markov Chains|
-|   9   | Mon, Nov 18 | [Hash Tables][]                   | [Due]: Linked List Challenges |
-|  10   | Wed, Nov 20 | Hash Table [Algorithm Analysis][] | [Quiz]: Arrays & Linked Lists |
-|  11   | Mon, Nov 25 | Project Lab Day                   | [Due]: Hash Table Challenges  |
+|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         |
+|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| [Quiz]: Histograms & Markov Chains <br> [Due]: Project Check-in |
+|   9   | Mon, Nov 18 | [Hash Tables][]                   |
+|  10   | Wed, Nov 20 | Hash Tables Review & Lab Day      | [Due]: Linked List Challenges (Fri, Nov 22) |
+|  11   | Mon, Nov 25 | Hash Table [Algorithm Analysis][] | [Quiz]: Arrays & Linked Lists |
 |   –   | Wed, Nov 27 | *No Class (Thanksgiving Break)*   |
-|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | [Quiz]: Hash Tables           |
-|  13   | Wed, Dec  4 | [Regular Expressions][]           |
-|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | [Quiz]: Higher Order Markov Chains
-|  15   | Wed, Dec 11 | *Activity To Be Determined*       | [Due]: Final Project          |
+|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | [Due]: Hash Table Challenges |
+|  13   | Wed, Dec  4 | [Regular Expressions][]           | [Quiz]: Hash Tables |
+|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | [Quiz] Make Up Day |
+|  15   | Wed, Dec 11 | *Activity To Be Determined*       | [Due]: Final Project |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -56,9 +56,9 @@ A project based course that looks under the hood at data structures and algorith
 
 |        Deliverable         | Date Started |  Date Due   |       Submission Form       |
 |:---------------------------|:------------:|:-----------:|:----------------------------|
-| [Project Check-in][]       | Mon, Oct 21  | Mon, Nov 11 | [Submit Project Check-in][] |
-| [Linked List Challenges][] | Mon, Nov 11  | Mon, Nov 18 | [Submit Linked List][]      |
-| [Hash Table Challenges][]  | Mon, Nov 18  | Mon, Nov 25 | [Submit Hash Table][]       |
+| [Project Check-in][]       | Mon, Oct 21  | Wed, Nov 13 | [Submit Project Check-in][] |
+| [Linked List Challenges][] | Mon, Nov 11  | Fri, Nov 22 | [Submit Linked List][]      |
+| [Hash Table Challenges][]  | Mon, Nov 18  | Mon, Dec  2 | [Submit Hash Table][]       |
 | [Final Project][]          | Mon, Oct 21  | Wed, Dec 11 | [Submit Final Project][]    |
 
 Read the [project rubric][] before the due date to ensure your code meets all expectations.
