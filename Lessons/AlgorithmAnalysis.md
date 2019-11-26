@@ -14,6 +14,7 @@
 - Draw diagram of how a hash table data structure is stored in memory
 - Compare and contrast diagram representations with partners
 - Complete [hash table time complexity worksheet]
+    - Watch [video of hash table time complexity worksheet review]
 - Form teams and collaboratively draw more complete hash table diagrams
 - Review merits of each diagram's faithfulness to actual memory organization
 - Code review implementations of hash table class instance methods
@@ -68,6 +69,7 @@ These challenges are more difficult and help you push your skills and understand
 [hash table worksheet]: https://make.sc/hash-table-worksheet
 [hash table worksheet solutions]: https://make.sc/hash-table-worksheet-solutions
 [hash table time complexity worksheet]: https://make.sc/hash-table-time-complexity-worksheet
+[video of hash table time complexity worksheet review]: https://www.youtube.com/watch?v=Ka3hvRoUxnY
 [algorithm analysis slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/AlgorithmAnalysis.pdf
 [big O notation video]: https://www.youtube.com/watch?v=v4cd1O4zkGw
 [asymptotic notation video]: https://www.youtube.com/watch?v=iOq5kSKqeR4
