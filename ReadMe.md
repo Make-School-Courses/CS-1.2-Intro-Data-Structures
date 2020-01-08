@@ -5,36 +5,63 @@
 A project based course that looks under the hood at data structures and algorithms to see how they work. In addition to implementing these structures in an application; students will build them from scratch, analyze their complexity, and benchmark their performance to gain an understanding of their tradeoffs and when to use them in practice. Students will write scripts, functions, and library modules to use text processing tools like regular expressions, construct and sample probability distributions to create a Markov language model and gain insight into how grammar works and natural language processing techniques.
 
 
-## Repository Setup
+## Important Links
 
-:warning: **Important:** Please follow [these instructions](Setup.md) exactly to set up your clone of this course repository.
+1. Submit project demo code on [Gradescope](https://www.gradescope.com/courses/76995)
+1. Project Tutorial: [Tweet Generator: Data Structures & Probability with Python](https://make.sc/tweet-generator)
+1. [Project demo rubrics](https://make.sc/cs12-rubric)
+1. Github classroom
+1. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeetcXxa9sOMAPi2gSg8rJEGxgA3FH-S3m5IJOtOjjfy8_eXg/viewform?usp=sf_link)
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+1.   Create Python programs that read and write text files and manipulate strings
+1.   Build web apps with the Flask framework and deploy to the web
+1.   Construct and sample probability distributions based on observed word frequencies
+1.   Create Markov language models and use them to generate new sentences
+1.   Use unit tests that assert correct behavior of functions and classes
+1.   Implement core data structures including singly linked lists and hash tables
+1.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
+
+## Prerequisites
+
+Students must pass the following course and demonstrate mastery of its competencies:
+-   [CS 1.1: Programming Fundamentals](https://make.sc/cs11)
 
 
-## Schedule
+## Class Schedule
 
-**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (7.5 weeks)
+**Course Dates:** 
 
-**Class Times:** Monday & Wednesday at 1:30-3:20pm (section A) or 3:30–5:20pm (section B)
+Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
+Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
+
+**Class Times:** 
+
+Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+
+Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 
 | Class |    Date     |           Lesson Topics           |   Deliverable Due or Quiz   |
 |:-----:|:-----------:|:----------------------------------|:----------------------------|
-|   1   | Mon, Oct 21 | [Strings & Random Numbers][]      |
-|   2   | Wed, Oct 23 | [Histogram Data Structures][]     |
-|   3   | Mon, Oct 28 | [Probability & Sampling][]        |
-|   4   | Wed, Oct 30 | [Flask Web App Development][]     |
-|   5   | Mon, Nov  4 | [Application Architecture][]      |
-|   6   | Wed, Nov  6 | [Generating Sentences][]          |
-|   7   | Mon, Nov 11 | [Arrays & Linked Lists][]         |
-|   8   | Wed, Nov 13 | Linked List [Algorithm Analysis][]| [Quiz]: Histograms & Markov Chains <br> [Due]: Project Check-in |
-|   9   | Mon, Nov 18 | [Hash Tables][]                   |
-|  10   | Wed, Nov 20 | Hash Tables Review & Lab Day      | [Due]: Linked List Challenges (Fri, Nov 22) |
-|  11   | Mon, Nov 25 | Hash Table [Algorithm Analysis][] | [Quiz]: Arrays & Linked Lists |
-|   –   | Wed, Nov 27 | *No Class (Thanksgiving Break)*   |
-|  12   | Mon, Dec  2 | [Higher Order Markov Chains][]    | [Due]: Hash Table Challenges |
-|  13   | Wed, Dec  4 | [Regular Expressions][]           | [Quiz]: Hash Tables |
-|  14   | Mon, Dec  9 | Time to Tweet & Launch Day!       | [Quiz] Make Up Day |
-|  15   | Wed, Dec 11 | *Activity To Be Determined*       | [Due]: Final Project |
+ - |  Mon, January 20               | **NO CLASS** - MLK Day |
+ |  - |  Tue, January 21               | CS 1.1 Review Day for both sections  |
+|   1   |  Wed/Thur, January 22/23               | [Strings & Random Numbers][]      |
+|   2   | Mon/Tue, January 27/28  | [Histogram Data Structures][]     | PQ 1
+|   3   | Wed/Thur, January 29/30 | [Probability & Sampling][]        | Demo 1
+|   4   | Mon/Tue, February 3/4 | [Flask Web App Development][]     | Quiz 1
+|   5   | Wed/Thur, February 5/6 | [Application Architecture][]      | PQ 2
+|   6   | Mon/Tue, February 10/11 |[Generating Sentences][]          |
+|   7   | Wed/Thur, February 12/13 | [Arrays & Linked Lists][]         | PQ 3
+|   8   | Mon/Tue, February 17/18 | Linked List [Algorithm Analysis][]| Demo 2|
+|   9   | Wed/Thur, February 19/20 | [Hash Tables][]                   | Quiz 2
+|  10   | Mon/Tue, February 24/25 | Hash Table [Algorithm Analysis][]     | PQ 4 |
+|  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]    | Demo 3|
+|  12   | Mon/Tue, March 2/3  | [Regular Expressions][]  | Quiz 3|
+|  13   | Wed, March 4/5  |  Time to Tweet & Launch Day!            | Final Demo |
+
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
@@ -52,65 +79,24 @@ A project based course that looks under the hood at data structures and algorith
 [Quiz]: https://make.sc/cs12-quiz-study-guides
 
 
-### Deliverable Schedule
 
-|        Deliverable         | Date Started |  Date Due   |       Submission Form       |
-|:---------------------------|:------------:|:-----------:|:----------------------------|
-| [Project Check-in][]       | Mon, Oct 21  | Wed, Nov 13 | [Submit Project Check-in][] |
-| [Linked List Challenges][] | Mon, Nov 11  | Fri, Nov 22 | [Submit Linked List][]      |
-| [Hash Table Challenges][]  | Mon, Nov 18  | Mon, Dec  2 | [Submit Hash Table][]       |
-| [Final Project][]          | Mon, Oct 21  | Wed, Dec 11 | [Submit Final Project][]    |
+### Quiz Policy
 
-Read the [project rubric][] before the due date to ensure your code meets all expectations.
+A total of 3 quizzes will be given in class. If the student experiences an unexpected event such as a medical issue or a family emergency the student may be approved to retake the quiz during testing center hours within a week of when the quiz was given. To be approved to retake a missed quiz the student must communicate with the instructor prior to the quiz date.
 
-[Project Check-in]: Lessons/FlaskWebApp.md
-[Linked List Challenges]: Lessons/ArraysLinkedLists.md#Challenges
-[Hash Table Challenges]: Lessons/HashTables.md#Challenges
-[Final Project]: Lessons/MarkovChains.md
+### Practice Questions (PQ) Policy
 
-[Submit Project Check-in]: https://make.sc/submit-tweet-generator-1
-[Submit Linked List]: https://make.sc/submit-linked-list
-[Submit Hash Table]: https://make.sc/submit-hash-table
-[Submit Final Project]: https://make.sc/submit-tweet-generator
+Practice Questions will not be graded and will be treated as extra opportunities to learn. We will go over the solutions in class on the dates in the tables above. In order to get the most out of these learning opportunties try to complete them before we go over them in class. 
 
-[project rubric]: https://make.sc/cs12-rubric
-
-
-## Prerequisites
-
-Students must pass the following course and demonstrate mastery of its competencies:
--   [CS 1.1: Programming Fundamentals](https://make.sc/cs11)
-
-
-## Learning Objectives
-
-By the end of this course, students will be able to:
-1.   Create Python programs that read and write text files and manipulate strings
-1.   Build web apps with the Flask framework and deploy to the web
-1.   Construct and sample probability distributions based on observed word frequencies
-1.   Create Markov language models and use them to generate new sentences
-1.   Use unit tests that assert correct behavior of functions and classes
-1.   Implement core data structures including singly linked lists and hash tables
-1.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
-
-
-## Project Tutorial
-
-Students will complete the following guided project tutorial in this course:
--   [Tweet Generator: Data Structures & Probability with Python](https://make.sc/tweet-generator)
-
-
-## Evaluation
+## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
--   Actively participate in class and abide by the attendance policy
--   Make up all classwork from all absences
 -   Complete the required project tutorial
 -   Pass the project according to the associated [project rubric][]
--   Pass the summative assessment (total of all quiz scores)
-    - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best lesson activities, slides, and resources to review while preparing
-
-[quiz study guides]: https://make.sc/cs12-quiz-study-guides
+- Complete all project demos by the due dates above
+- Pass all quizzes (there will be a total of 3 quizzes, lowest quiz will be dropped but you must take all the quizzes)
+- Actively participate in class and abide by the attendance policy
+- Make up all classwork from all absences
 
 
 ## Attendance
@@ -125,12 +111,13 @@ Failure to meet these requirements will result in a Participation Improvement Pl
 Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
-## Make School Policies
+## Make School Course Policies
 
--   [Academic Honesty](https://make.sc/academic-honesty)
--   [Accomodation Policy](https://make.sc/accommodations-for-students)
--   [Attendance Policy](https://make.sc/attendance-policy)
--   [Diversity Statement](https://make.sc/diversity-and-inclusion-policy)
--   [Grading System](https://make.sc/grading-system)
--   [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
--   [Title IX Disclaimer](https://make.sc/title-ix-policy)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
