@@ -1,9 +1,8 @@
-# Strings & Random Numbers
+# [Strings & Random Numbers](https://docs.google.com/presentation/d/137XVqxjeV0wYyxjPZwW3UKtaOR6R2uVYArw2-_5Qt7Q/edit#slide=id.p)
 
 ## Activity
 - Review prerequisite skills and knowledge
-- Discuss course focus and project goals in [Tweet Generator intro slides]
-    - Watch [video of course and project kickoff]
+- Watch [video of course and project kickoff]
 - Show examples of completed projects and similar websites
 
 ## Objectives
