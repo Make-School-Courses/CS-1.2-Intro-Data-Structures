@@ -9,20 +9,19 @@ A project based course that looks under the hood at data structures and algorith
 
 1. Submit project demo code on [Gradescope](https://www.gradescope.com/courses/76995)
 1. Project Tutorial: [Tweet Generator: Data Structures & Probability with Python](https://make.sc/tweet-generator)
-1. [Project demo rubrics](https://make.sc/cs12-rubric)
-1. Github classroom
-1. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeetcXxa9sOMAPi2gSg8rJEGxgA3FH-S3m5IJOtOjjfy8_eXg/viewform?usp=sf_link)
+1. [Project demo rubrics](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit?folder=1yzsaKL-ywY-2Gn_IgAKCoTtkWD8Wgx96)
+2. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeetcXxa9sOMAPi2gSg8rJEGxgA3FH-S3m5IJOtOjjfy8_eXg/viewform?usp=sf_link)
 
 ## Learning Objectives
 
 By the end of this course, students will be able to:
 1.   Create Python programs that read and write text files and manipulate strings
-1.   Build web apps with the Flask framework and deploy to the web
-1.   Construct and sample probability distributions based on observed word frequencies
-1.   Create Markov language models and use them to generate new sentences
-1.   Use unit tests that assert correct behavior of functions and classes
-1.   Implement core data structures including singly linked lists and hash tables
-1.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
+2.   Implement core data structures including singly linked lists and hash tables
+3.   Build web apps with the Flask framework and deploy to the web
+4.   Construct and sample probability distributions based on observed word frequencies
+5.   Create Markov language models and use them to generate new sentences
+6.   Use unit tests that assert correct behavior of functions and classes
+7.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
 
 ## Prerequisites
 
@@ -77,21 +76,27 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 [Due]: ReadMe.md#Deliverable-Schedule
 [Quiz]: https://make.sc/cs12-quiz-study-guides
 
-
-
 ### Quiz Policy
 
 A total of 3 quizzes will be given in class. If the student experiences an unexpected event such as a medical issue or a family emergency the student may be approved to retake the quiz during testing center hours within a week of when the quiz was given. To be approved to retake a missed quiz the student must communicate with the instructor prior to the quiz date.
 
 ### Practice Questions (PQ) Policy
 
-Practice Questions will not be graded and will be treated as extra opportunities to learn. We will go over the solutions in class on the dates in the tables above. In order to get the most out of these learning opportunties try to complete them before we go over them in class. 
+Practice Questions will not be graded and will be treated as extra opportunities to learn. We will go over the solutions in class on the dates in the tables above. In order to get the most out of these learning opportunties try to complete them before we go over them in class.
+
+### Project Demo Policy
+
+Each demo students will demonstrate completion of coding challenges in the project tutorial. Each demo will consist of two components: 
+1. Demonstrating that the code is complete
+2. Being able to answer conceptual interview type questions about the code
+   
+If you do not pass the demo the first time you will be given an opportunity to retake the demo and bring your grade up to passing after recieving feedback. 
 
 ## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
 -   Complete the required project tutorial
--   Pass the project according to the associated [project rubric][]
+-   Pass the project demos according to the associated [project rubric](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit?folder=1yzsaKL-ywY-2Gn_IgAKCoTtkWD8Wgx96)
 - Complete all project demos by the due dates above
 - Pass all quizzes (there will be a total of 3 quizzes, lowest quiz will be dropped but you must take all the quizzes)
 - Actively participate in class and abide by the attendance policy
