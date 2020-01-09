@@ -46,9 +46,9 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 
 | Class |    Date     |           Lesson Topics           |   Deliverable Due or Quiz   |
 |:-----:|:-----------:|:----------------------------------|:----------------------------|
- - |  Mon, January 20               | **NO CLASS** - MLK Day |
- |  - |  Tue, January 21               | CS 1.1 Review Day for both sections  |
-|   1   |  Wed/Thur, January 22/23               | [Strings & Random Numbers][]      |
+ - |  Mon, January 20               | **NO CLASS** - MLK Day | |
+ |  - |  Tue, January 21               | CS 1.1 Review Day for both sections  | |
+|   1   |  Wed/Thur, January 22/23               | [Strings & Random Numbers][] | |   |        |
 |   2   | Mon/Tue, January 27/28  | [Histogram Data Structures][]     | PQ 1 |
 |   3   | Wed/Thur, January 29/30 | [Probability & Sampling][]        | Demo 1 |
 |   4   | Mon/Tue, February 3/4 | [Flask Web App Development][]     | Quiz 1 |
