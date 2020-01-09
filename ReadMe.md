@@ -58,8 +58,8 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 |   9   | Wed/Thur, February 19/20 | [Hash Tables][]                     | Quiz 2                  |
 |  10   | Mon/Tue, February 24/25  | Hash Table [Algorithm Analysis][]   | PQ 4                    |
 |  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]      | Demo 3                  |
-|  12   |    Mon/Tue, March 2/3    | [Regular Expressions][]             | Quiz 3                  |
-|  13   |      Wed, March 4/5      | Time to Tweet & Launch Day!         | Final Demo              |
+|  12   | Mon/Tue, March 2/3       | [Regular Expressions][]             | Quiz 3                  |
+|  13   | Wed/Thur, March 4/5      | Time to Tweet & Launch Day!         | Final Demo              |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
