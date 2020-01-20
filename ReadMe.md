@@ -98,6 +98,7 @@ To pass this course, students must meet the following requirements:
 -   Complete the required project tutorial
 -   Pass the project demos according to the associated [project rubric](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit?folder=1yzsaKL-ywY-2Gn_IgAKCoTtkWD8Wgx96)
 - Complete all project demos by the due dates above
+- Complete all lab deliverables by the end of class (you can drop 2 of these)
 - Pass all quizzes (there will be a total of 3 quizzes, lowest quiz will be dropped but you must take all the quizzes)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
