@@ -49,8 +49,8 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 |   -   |     Tue, January 21      | CS 1.1 Review                       |                         |
 |   1   | Wed/Thur, January 22/23  | [Strings & Random Numbers][]        |                         |
 |   2   |  Mon/Tue, January 27/28  | [Histogram Data Structures][]       | PQ 1                    |
-|   3   | Wed/Thur, January 29/30  | [Probability & Sampling][]          | Demo 1                  |
-|   4   |  Mon/Tue, February 3/4   | [Flask Web App Development][]       | Quiz 1                  |
+|   3   | Wed/Thur, January 29/30  | [Histograms Part 2][]          | Demo 1                  |
+|   4   |  Mon/Tue, February 3/4   | [Flask Web App Development & Prob & Sampling][]       | Quiz 1                  |
 |   5   |  Wed/Thur, February 5/6  | [Application Architecture][]        | PQ 2                    |
 |   6   | Mon/Tue, February 10/11  | [Generating Sentences][]            |                         |
 |   7   | Wed/Thur, February 12/13 | [Arrays & Linked Lists][]           | PQ 3                    |
@@ -63,8 +63,9 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
+[Histograms Part 2]: Lessons/Histograms.md
 [Probability & Sampling]: Lessons/Probability.md
-[Flask Web App Development]: Lessons/FlaskWebApp.md
+[Flask Web App Development & Prob & Sampling]: Lessons/FlaskWebApp.md
 [Application Architecture]: Lessons/Architecture.md
 [Generating Sentences]: Lessons/Sentences.md
 [Arrays & Linked Lists]: Lessons/ArraysLinkedLists.md
