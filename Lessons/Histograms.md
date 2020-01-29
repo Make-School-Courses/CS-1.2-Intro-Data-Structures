@@ -1,5 +1,7 @@
 # [Histogram Data Structures](https://docs.google.com/presentation/d/1hFArsihiDByjiNm42kpAXHFIbRLXCIXw6SLLzInWI08/edit#slide=id.p)
 
+# [Histograms Part 2](https://docs.google.com/presentation/d/1V7-gTKR1flCrPTTIjMSDaMubevSrCu5i8tODLbgz890/edit#slide=id.g6e22aad45f_0_98)
+
 ## Activities
 - Compare code quality and techniques for rearranging words
 - Compare code quality for getting random dictionary words
