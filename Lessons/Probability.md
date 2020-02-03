@@ -1,4 +1,4 @@
-# Probability & Sampling
+# [Probability & Sampling](https://docs.google.com/presentation/d/1rX0fkg-PdG_ypu4EL_cN_dDZ96UCrZkmEXeRRdT99lI/edit#slide=id.g6e846b49fc_2_76)
 
 ## Activities
 - Compare code quality for histogram implementations
