@@ -49,17 +49,17 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 |   -   |     Tue, January 21      | CS 1.1 Review                       |                         |
 |   1   | Wed/Thur, January 22/23  | [Strings & Random Numbers][]        |                         |
 |   2   |  Mon/Tue, January 27/28  | [Histogram Data Structures][]       | PQ 1                    |
-|   3   | Wed/Thur, January 29/30  | [Histograms Part 2][]          | Demo 1                  |
+|   3   | Wed/Thur, January 29/30  | [Histograms Part 2][]          | [Demo 1](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                  |
 |   4   |  Mon/Tue, February 3/4   | [Prob & Sampling]       | Quiz 1                  |
 |   5   |  Wed/Thur, February 5/6  | [Application Architecture]& [Flask Web App Development][]        | PQ 2                    |
 |   6   | Mon/Tue, February 10/11  | [Generating Sentences][]            |                         |
 |   7   | Wed/Thur, February 12/13 | [Arrays & Linked Lists][]           | PQ 3                    |
-|   8   | Mon/Tue, February 17/18  | Linked List [Algorithm Analysis][]  | Demo 2                  |
+|   8   | Mon/Tue, February 17/18  | Linked List [Algorithm Analysis][]  | [Demo 2](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                 |
 |   9   | Wed/Thur, February 19/20 | [Hash Tables][]                     | Quiz 2                  |
 |  10   | Mon/Tue, February 24/25  | Hash Table [Algorithm Analysis][]   | PQ 4                    |
-|  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]      | Demo 3                  |
+|  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]      | [Demo 3](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                  |
 |  12   | Mon/Tue, March 2/3       | [Regular Expressions][]             | Quiz 3                  |
-|  13   | Wed/Thur, March 4/5      | Time to Tweet & Launch Day!         | Final Demo              |
+|  13   | Wed/Thur, March 4/5      | Time to Tweet & Launch Day!         | [Final Demo](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)              |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
 [Histogram Data Structures]: Lessons/Histograms.md
