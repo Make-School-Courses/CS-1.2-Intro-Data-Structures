@@ -1,4 +1,4 @@
-# Flask Web App Development
+# [Flask Web App Development](https://docs.google.com/presentation/d/1IYRiJYRSD9w3a5pY9_tBC1iDVgfAvdjuZFxbJ3nLvCo/edit#slide=id.g7dd52372eb_0_67)
 
 ## Activities
 - Compare implementations for sampling words based on observed frequency
