@@ -1,4 +1,4 @@
-# Arrays & Linked Lists
+# [Arrays & Linked Lists](https://docs.google.com/presentation/d/108BfIVUqSgx6lOntEjZiJIuLlQ1yMfcUhiQJkJn87lM/edit#slide=id.p)
 
 ## Activities
 - Complete [histogram, Markov chain and sampling worksheet]
