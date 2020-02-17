@@ -54,11 +54,11 @@ Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
 |   5   |  Wed/Thur, February 5/6  | [Flask Web App Development][]        |                     |
 |   6   | Mon/Tue, February 10/11  | [Application Architecture][]            |                         |
 |   7   | Wed/Thur, February 12/13 | [Generating Sentences][]           |                     |
-|   8   | Mon/Tue, February 17/18  | [Arrays & Linked Lists] & [Algorithm Analysis][]  | [Demo 2](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                 |
-|   9   | Wed/Thur, February 19/20 | [Hash Tables][]                     | Quiz 2                  |
-|  10   | Mon/Tue, February 24/25  | Hash Table [Algorithm Analysis][]   |                     |
-|  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]      | [Demo 3](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                  |
-|  12   | Mon/Tue, March 2/3       | [Regular Expressions][]             | Quiz 3                  |
+|   8   | Mon/Tue, February 17/18  | [Arrays & Linked Lists]  | [Demo 2](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                 |
+|   9   | Wed/Thur, February 19/20 |  [Algorithm Analysis]                    | Quiz 2                  |
+|  10   | Mon/Tue, February 24/25  |  [Hash Tables][]   |                     |
+|  11   | Wed/Thur, February 26/27 |   Hash Table [Algorithm Analysis][]    | [Demo 3](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)                  |
+|  12   | Mon/Tue, March 2/3       |      Lab Day!       | Quiz 3                  |
 |  13   | Wed/Thur, March 4/5      | Time to Tweet & Launch Day!         | [Final Demo](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit)              |
 
 [Strings & Random Numbers]: Lessons/RandomStrings.md
