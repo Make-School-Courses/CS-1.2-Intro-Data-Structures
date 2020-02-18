@@ -1,4 +1,4 @@
-# Generating Sentences
+# [Generating Sentences](https://docs.google.com/presentation/d/1B0cYEcEK0TIcRVZB8Gy8WcxMEUL53yl5emjJTi2_KbU/edit)
 
 ## Activities
 - Compare histogram functions to `Dictogram` and `Listogram` class instance methods
