@@ -1,4 +1,4 @@
-# Hash Tables
+# [Hash Tables](https://docs.google.com/presentation/d/1pQDkjQfe5aEohm0N1uU_Ntg8QNsOpVs3Q5UTNuyb0Ys/edit#slide=id.p)
 
 ## Activities
 - Complete [linked list time complexity worksheet]
