@@ -7,10 +7,7 @@ A project based course that looks under the hood at data structures and algorith
 
 ## Important Links
 
-1. Submit project demo code on [Gradescope](https://www.gradescope.com/courses/76995)
-1. Project Tutorial: [Tweet Generator: Data Structures & Probability with Python](https://make.sc/tweet-generator)
-1. [Project demo rubrics](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit?folder=1yzsaKL-ywY-2Gn_IgAKCoTtkWD8Wgx96)
-2. [Vibe Check](https://docs.google.com/forms/d/e/1FAIpQLSeetcXxa9sOMAPi2gSg8rJEGxgA3FH-S3m5IJOtOjjfy8_eXg/viewform?usp=sf_link)
+1. Submit all assignments on [Gradescope](https://www.gradescope.com/courses/76995)
 
 ## Learning Objectives
 
@@ -31,75 +28,66 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 ## Class Schedule
 
-**Course Dates:**
+**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
 
-Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
+**Class Times:** Monday, Wednesday, and Friday at 9:30–11:20am (20 class sessions)
 
-Tuesday, January 21 – Thursday, March 5, 2020 (7 weeks)
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Mon, June 1               | [Fundamentals and OOP Review I] |
+|  2 |  Wed, June 3               | [Fundamentals and OOP Review II] |
+|  3 |  Fri, June 5               | [Fundamentals and OOP Activities] |
+|  4 |  Mon, June 8               | [Strings & File I/O review] |
+|  5 |  Wed, June 10               | [Arrays] |
+|  6 |  Fri, June 12               | [Strings & Arrays Activity Day] |
+|  7 |  Mon, June 15               | [Linked List I] |
+|  8 |  Wed, June 17              | [Linked List II] |
+|  9 |  Fri, June 19              | [Linked List Activity Day] |
+| 10 |  Mon, June 22              | [Algorithm Analysis I] |
+| 11 |  Wed, June 24              | [Algorithm Analysis II] |
+| 12 |  Fri, June 26              | [Algorithm Analysis Activity Day] |
+| 13 |  Mon, June 29              | [Hash Table I] |
+| 14 |  Wed, July 1              | [Hash Table II]|  
+| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
+| 15 |  Mon, July 6              | [Hash Table III]|
+| 16 |  Wed, July 8                 | [Hash Table Algorithm Analysis] |
+| 17 |  Fri, July 10                  | [Hash Table Activity Day] |
+| 18 |  Mon, July 13                  | [Tweet Generator Code Along] |
+| 19 |  Wed, July 15                 | [Tweet Generator Code Along] |
+| 20 |  Fri, July 17                 | Wrap Up |
 
-**Class Times:** 
+[Fundamentals and OOP Review I]: Lessons/Lesson1.md
+[Strings]: Lessons/Lesson2.md
+[Random Numbers]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
+[Lesson 13]: Lessons/Lesson13.md
+[Lesson 14]: Lessons/Lesson14.md
 
-Monday and Wednesday at 3:30–5:20pm (13 class sessions)
 
-Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
+## Assignment Schedule 
 
-| Class |           Date           | Lesson Topics                       | Deliverable Due or Quiz |
-| :---: | :----------------------: | :---------------------------------- | :---------------------- |
-|   -   |     Mon, January 20      | **NO CLASS** - MLK Day              |                         |
-|   -   |     Tue, January 21      | CS 1.1 Review                       |                         |
-|   1   | Wed/Thur, January 22/23  | [Strings & Random Numbers][]        |                         |
-|   2   |  Mon/Tue, January 27/28  | [Histogram Data Structures][]       | PQ 1                    |
-|   3   | Wed/Thur, January 29/30  | [Probability & Sampling][]          | Demo 1                  |
-|   4   |  Mon/Tue, February 3/4   | [Flask Web App Development][]       | Quiz 1                  |
-|   5   |  Wed/Thur, February 5/6  | [Application Architecture][]        | PQ 2                    |
-|   6   | Mon/Tue, February 10/11  | [Generating Sentences][]            |                         |
-|   7   | Wed/Thur, February 12/13 | [Arrays & Linked Lists][]           | PQ 3                    |
-|   8   | Mon/Tue, February 17/18  | Linked List [Algorithm Analysis][]  | Demo 2                  |
-|   9   | Wed/Thur, February 19/20 | [Hash Tables][]                     | Quiz 2                  |
-|  10   | Mon/Tue, February 24/25  | Hash Table [Algorithm Analysis][]   | PQ 4                    |
-|  11   | Wed/Thur, February 26/27 | [Higher Order Markov Chains][]      | Demo 3                  |
-|  12   | Mon/Tue, March 2/3       | [Regular Expressions][]             | Quiz 3                  |
-|  13   | Wed/Thur, March 4/5      | Time to Tweet & Launch Day!         | Final Demo              |
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [The Flower Garden](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
 
-[Strings & Random Numbers]: Lessons/RandomStrings.md
-[Histogram Data Structures]: Lessons/Histograms.md
-[Probability & Sampling]: Lessons/Probability.md
-[Flask Web App Development]: Lessons/FlaskWebApp.md
-[Application Architecture]: Lessons/Architecture.md
-[Generating Sentences]: Lessons/Sentences.md
-[Arrays & Linked Lists]: Lessons/ArraysLinkedLists.md
-[Hash Tables]: Lessons/HashTables.md
-[Algorithm Analysis]: Lessons/AlgorithmAnalysis.md
-[Higher Order Markov Chains]: Lessons/MarkovChains.md
-[Regular Expressions]: Lessons/RegularExpressions.md
-
-[Due]: ReadMe.md#Deliverable-Schedule
-[Quiz]: https://make.sc/cs12-quiz-study-guides
 
 ### Quiz Policy
 
-A total of 3 quizzes will be given in class. If the student experiences an unexpected event such as a medical issue or a family emergency the student may be approved to retake the quiz during testing center hours within a week of when the quiz was given. To be approved to retake a missed quiz the student must communicate with the instructor prior to the quiz date.
-
-### Practice Questions (PQ) Policy
-
-Practice Questions will not be graded and will be treated as extra opportunities to learn. We will go over the solutions in class on the dates in the tables above. In order to get the most out of these learning opportunties try to complete them before we go over them in class.
-
-### Project Demo Policy
-
-Each demo students will demonstrate completion of coding challenges in the project tutorial. Each demo will consist of two components: 
-1. Demonstrating that the code is complete
-2. Being able to answer conceptual interview type questions about the code
-   
-If you do not pass the demo the first time you will be given an opportunity to retake the demo and bring your grade up to passing after recieving feedback. 
+A total of 3 quizzes will be given in class. If you do not pass quiz 1 or 2 you will have the opportunity to retake them. You must attempt all quizzes but your lowest score will be dropped.
 
 ## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
--   Complete the required project tutorial
--   Pass the project demos according to the associated [project rubric](https://docs.google.com/document/d/1a8xQX1xAWTZjuXjhPdeQc2-FkEcK5eJpqaAPtfFDqZE/edit?folder=1yzsaKL-ywY-2Gn_IgAKCoTtkWD8Wgx96)
-- Complete all project demos by the due dates above
-- Complete all lab deliverables by the end of class (you can drop 2 of these)
-- Pass all quizzes (there will be a total of 3 quizzes, lowest quiz will be dropped but you must take all the quizzes)
+- Complete all homeworks by the due dates listed above, one hw will be dropped but all must be attempted
+- Attempt all three quizzes and pass at least 2/3 quizzes
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
@@ -113,3 +101,4 @@ To pass this course, students must meet the following requirements:
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+
