@@ -8,6 +8,7 @@ A project based course that looks under the hood at data structures and algorith
 ## Important Links
 
 1. Submit all assignments on [Gradescope](https://www.gradescope.com/courses/76995)
+1. Course recordings and videos can be found [here]()
 
 ## Learning Objectives
 
