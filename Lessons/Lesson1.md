@@ -15,16 +15,6 @@
     - Properties
 - Converting Functions to a Class
 
-<section>
-  <pre><code>
-def module Math do
-  def sum(a, b) do
-    a + b
-  end
-end
-  </code></pre>
-</section>
-
 <!-- > -->
 
 ## Check In
@@ -43,77 +33,112 @@ What are you most interested in learning in this class?
 
 ## Functions Review
 
+We can think of functions like a recipe, the inputs or parameters are the ingredients and the output is the complete sandwich
+
 ![Functions as Sandwich Recipe](Images/functionrecipe.png)
 
 <!-- > -->
 
 ## Types of Functions
 
-ones that return something vs. one that make changes
+We can think of dividing functions into two broad categories
+- Functions that take in input, process it, and return output
+- Functions that take in input, process it, and return None
+
+<!-- > -->
+
+## Types of Functions
+
+Let's do a code trace this function that returns the average of a list
+
+<iframe src="https://trinket.io/embed/python/7e04439ad9" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<!-- > -->
+
+## Types of Functions
+
+Let's do a code trace of this function that prints something but returns None
+
+<iframe src="https://trinket.io/embed/python/0a8a05e9c6" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
 ## Scope
 
-Global vs. Local
+All variables have a scope associated with them. Think of the scope as when a given name can refer to a given variable. Scope can be passed down the chain from global (everything) to function (within a function definition) to block (within a for or if statement)
+
+<!-- > -->
+
+## Scope Example
+
+Think of a function as a small community
+
+<iframe src="https://trinket.io/embed/python/2657c7b74d" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
 ## Functions Practice
 
-write a function
+Complete this exercise
 
-<iframe src="https://trinket.io/embed/python3/7b6d76458e" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/fd3574935f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
 ## Object Oriented Programming
 
-what is it
-
 <!-- > -->
 
 ## Encapsulation
 
-stuff
+Bundling related data and functionality together
+Providing an interface to access this information while hiding the details
 
 <!-- > -->
 
 ## Classes
 
-what is a class
+A class is like a blueprint
+
+![Functions as Sandwich Recipe](Images/houseblueprint.jpeg)
 
 <!-- > -->
 
 ## Objects
 
-what is an object
+An object is a thing built from the blueprint
+
+![Functions as Sandwich Recipe](Images/suburbia.jpg)
 
 <!-- > -->
 
 ## Methods
 
+Methods are behaviors or functions defined within a class 
+
 <!-- > -->
 
 ## Properties
+
+Properties are data or variables defined within a class
 
 <!-- > -->
 
 ## Instantiation
 
-kjlkj
+To create a thing (object) using the blueprint (class) we use instantiation
 
 <!-- > -->
 
-## An Example Class
+## An Example in Python
+
+<iframe src="https://trinket.io/embed/python/959996e007" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
 ## OOP Practice
 
-<!-- > -->
-
-## Functions to Classes
+<iframe src="https://trinket.io/embed/python/47c67d0a94" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
