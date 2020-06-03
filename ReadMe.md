@@ -78,7 +78,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [The Flower Garden](makeschool.com)                      |  Wed, June 3   |  Wed, June 10  | [Submit Assignment](makeschool.com)  |
+| [The Flower Garden](makeschool.com)                      |  Fri, June 5   |  Wed, June 10  | [Submit Assignment](makeschool.com)  |
 
 
 ### Quiz Policy
