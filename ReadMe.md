@@ -58,6 +58,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | 20 |  Fri, July 17                 | Wrap Up |
 
 [Fundamentals and OOP Review I]: Lessons/Lesson1.md
+[Fundamentals and OOP Review II]: Lessons/Lesson2.md
 [Strings]: Lessons/Lesson2.md
 [Random Numbers]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
