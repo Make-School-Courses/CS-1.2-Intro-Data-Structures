@@ -37,7 +37,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Mon, June 1               | [Fundamentals and OOP Review I] |
 |  2 |  Wed, June 3               | [Fundamentals and OOP Review II] |
-|  3 |  Fri, June 5               | [Fundamentals and OOP Activities] |
+|  3 |  Fri, June 5               | Fundamentals and OOP Activities |
 |  4 |  Mon, June 8               | [Strings & File I/O review] |
 |  5 |  Wed, June 10               | [Arrays] |
 |  6 |  Fri, June 12               | [Strings & Arrays Activity Day] |
