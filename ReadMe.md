@@ -61,7 +61,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Fundamentals and OOP Review II]: Lessons/Lesson2.md
 [Strings & File I/O review]: Lessons/Lesson3.md
 [Random Numbers]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
+[Arrays]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
 [Lesson 6]: Lessons/Lesson6.md
 [Lesson 7]: Lessons/Lesson7.md
