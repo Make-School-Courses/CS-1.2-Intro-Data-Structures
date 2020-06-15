@@ -78,7 +78,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [The Flower Garden](Lessons/HW1.md)                      |  Fri, June 5   |  Wed, June 10  | [Submit Assignment](makeschool.com)  |
+| [The Flower Garden](Lessons/HW1.md)                      |  Fri, June 5   |  Wed, June 10  | [Submit Assignment](https://www.gradescope.com/courses/131138)  |
+| [Linked Lists](Lessons/HW2.md)                      |  Mon, June 15   |  Fri, June 26  | [Submit Assignment](https://www.gradescope.com/courses/131138)  |
 
 
 ### Quiz Policy

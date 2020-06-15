@@ -75,6 +75,8 @@ What are some advantages of the non-contiguous property? Some disadvantages?
 
 Finish the linked list starter code so that it will pass all tests in linkedlist_test.py
 
+Assignment can be found [here](Lessons/HW2.md)
+
 <!-- > -->
 
 ## Shout Outs
