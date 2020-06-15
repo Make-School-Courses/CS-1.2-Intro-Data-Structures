@@ -23,9 +23,6 @@ class LinkedList:
         if items is not None:
             for item in items:
                 self.append(item)
-            #set the head to the first item and the tail to the last
-            self.head = items[0]
-            self.tail = items[-1]
 
     def __repr__(self):
         """Return a string representation of this linked list."""
@@ -62,7 +59,8 @@ class LinkedList:
         """Insert the given item at the tail of this linked list.
         TODO: Running time: O(???) Why and under what conditions?"""
         # TODO: Create new node to hold given item
-        # TODO: Append node after tail, if it exists
+        # TODO: If self.is_empty() == True set the head and the tail to the new node
+        # TODO: Else append node after tail
 
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
