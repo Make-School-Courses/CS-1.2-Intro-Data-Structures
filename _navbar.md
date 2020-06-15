@@ -8,4 +8,6 @@
 - **Assignments**
   - [HW1: Flower Garden Part I](Lessons/HW1.md)
   - [HW2: Linked Lists](Lessons/HW2.md)
+- **Quizzes**
+  - [Quiz 1 Study Guide](Lessons/Quiz1.md)
 
