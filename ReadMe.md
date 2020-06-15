@@ -62,7 +62,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Strings & File I/O review]: Lessons/Lesson3.md
 [Random Numbers]: Lessons/Lesson3.md
 [Arrays]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
+[Linked Lists]: Lessons/Lesson5.md
 [Lesson 6]: Lessons/Lesson6.md
 [Lesson 7]: Lessons/Lesson7.md
 [Lesson 8]: Lessons/Lesson8.md

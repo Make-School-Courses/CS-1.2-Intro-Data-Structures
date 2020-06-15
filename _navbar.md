@@ -4,6 +4,7 @@
   - [Fundamentals and OOP Review II](Lessons/Lesson2.md)
   - [Strings & File I/O review](Lessons/Lesson3.md)
   - [Arrays](Lessons/Lesson4.md)
+  - [Linked List](Lessons/Lesson5.md)
 - **Assignments**
   - [HW1: Flower Garden Part I](Lessons/HW1.md)
 
