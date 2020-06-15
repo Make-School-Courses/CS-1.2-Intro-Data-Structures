@@ -10,10 +10,10 @@ class Node(object):
 
     def __repr__(self):
         """Return a string representation of this node."""
-        return 'Node({!r})'.format(self.data)
+        return f'Node({self.data})'
 
 
-class LinkedList(object):
+class LinkedList:
 
     def __init__(self, items=None):
         """Initialize this linked list and append the given items, if any."""
@@ -23,15 +23,16 @@ class LinkedList(object):
         if items is not None:
             for item in items:
                 self.append(item)
-
-    def __str__(self):
-        """Return a formatted string representation of this linked list."""
-        items = ['({!r})'.format(item) for item in self.items()]
-        return '[{}]'.format(' -> '.join(items))
+            #set the head to the first item and the tail to the last
+            self.head = items[0]
+            self.tail = items[-1]
 
     def __repr__(self):
         """Return a string representation of this linked list."""
-        return 'LinkedList({!r})'.format(self.items())
+        ll_str = ""
+        for item in self.items():
+            ll_str += f'({item}) -> '
+        return ll_str
 
     def items(self):
         """Return a list (dynamic array) of all items in this linked list.
@@ -69,12 +70,11 @@ class LinkedList(object):
         # TODO: Create new node to hold given item
         # TODO: Prepend node before head, if it exists
 
-    def find(self, quality):
-        """Return an item from this linked list satisfying the given quality.
+    def find(self, item):
+        """Return an item from this linked list if it is present.
         TODO: Best case running time: O(???) Why and under what conditions?
         TODO: Worst case running time: O(???) Why and under what conditions?"""
-        # TODO: Loop through all nodes to find item where quality(item) is True
-        # TODO: Check if node's data satisfies given quality function
+        # TODO: Loop through all nodes to find item, if present return True otherwise False
 
     def delete(self, item):
         """Delete the given item from this linked list, or raise ValueError.
@@ -85,34 +85,3 @@ class LinkedList(object):
         # TODO: Otherwise raise error to tell user that delete has failed
         # Hint: raise ValueError('Item not found: {}'.format(item))
 
-
-def test_linked_list():
-    ll = LinkedList()
-    print('list: {}'.format(ll))
-
-    print('\nTesting append:')
-    for item in ['A', 'B', 'C']:
-        print('append({!r})'.format(item))
-        ll.append(item)
-        print('list: {}'.format(ll))
-
-    print('head: {}'.format(ll.head))
-    print('tail: {}'.format(ll.tail))
-    print('length: {}'.format(ll.length()))
-
-    # Enable this after implementing delete method
-    delete_implemented = False
-    if delete_implemented:
-        print('\nTesting delete:')
-        for item in ['B', 'C', 'A']:
-            print('delete({!r})'.format(item))
-            ll.delete(item)
-            print('list: {}'.format(ll))
-
-        print('head: {}'.format(ll.head))
-        print('tail: {}'.format(ll.tail))
-        print('length: {}'.format(ll.length()))
-
-
-if __name__ == '__main__':
-    test_linked_list()
