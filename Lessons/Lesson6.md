@@ -2,7 +2,7 @@
 
 # Algorithm Analysis
 
-➡️ [**Slides**](/CS-1.0-Programming-Fundamentals/Slides/Lesson6.html ':ignore')
+➡️ [**Slides**](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson6.html ':ignore')
 
 <!-- > -->
 
