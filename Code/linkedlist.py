@@ -55,6 +55,23 @@ class LinkedList:
         TODO: Running time: O(???) Why and under what conditions?"""
         # TODO: Loop through all nodes and count one for each
 
+        #Need a counter and temp
+        #keep track of how many nodes we have seen
+        count = 0
+        #will let us keep track of the node we are visting currently
+        temp = self.head
+
+        #loop to traverse
+        #break out of the loop when we hit the tail
+        #basically we get a None value
+        while temp != None:
+            count += 1
+            #move through the linked list
+            #use temp var combined with reassignment
+            temp = temp.next
+        return count
+
+
     def append(self, item):
         """Insert the given item at the tail of this linked list.
         TODO: Running time: O(???) Why and under what conditions?"""
@@ -62,11 +79,30 @@ class LinkedList:
         # TODO: If self.is_empty() == True set the head and the tail to the new node
         # TODO: Else append node after tail
 
+         #1. Create a new node
+        new_node = Node(item)
+
+        if self.is_empty():
+            self.head = new_node
+            self.tail = new_node
+        else:
+            #2. Get the tail and set tail.next to new node
+            self.tail.next = new_node
+            #3. Make the new node the new tail
+            self.tail = new_node
+
     def prepend(self, item):
         """Insert the given item at the head of this linked list.
         TODO: Running time: O(???) Why and under what conditions?"""
         # TODO: Create new node to hold given item
         # TODO: Prepend node before head, if it exists
+
+        #1. create a new node
+        new_node = Node(item)
+        #2. get the head and set the new node's next to the head
+        new_node.next = self.head
+        #3. Change the head to the new node
+        self.head = new_node
 
     def find(self, item):
         """Return an item from this linked list if it is present.
@@ -82,4 +118,18 @@ class LinkedList:
         # TODO: Update previous node to skip around node with matching data
         # TODO: Otherwise raise error to tell user that delete has failed
         # Hint: raise ValueError('Item not found: {}'.format(item))
+
+
+if __name__ == "__main__":
+    my_ll = LinkedList(["A", "B", "C"])
+    print(my_ll)
+    my_ll.prepend("D")
+    print(my_ll)
+    print(my_ll.head)
+    print(my_ll.length())#expeting 4
+
+    my_ll = LinkedList()
+    #my_ll.prepend("A")
+    print(my_ll)
+    print(my_ll.length())#expeting 0
 
