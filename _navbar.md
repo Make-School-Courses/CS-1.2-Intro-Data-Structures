@@ -6,6 +6,7 @@
   - [Arrays](Lessons/Lesson4.md)
   - [Linked List](Lessons/Lesson5.md)
   - [Algorithm Analysis](Lessons/Lesson6.md)
+  - [Hash Tables](Lessons/Lesson7.md)
 - **Assignments**
   - [HW1: Flower Garden Part I](Lessons/HW1.md)
   - [HW2: Linked Lists](Lessons/HW2.md)

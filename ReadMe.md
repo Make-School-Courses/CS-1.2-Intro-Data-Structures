@@ -47,7 +47,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | 10 |  Mon, June 22              | [Quiz 1] [Algorithm Analysis] |
 | 11 |  Wed, June 24              | [Algorithm Analysis II] |
 | 12 |  Fri, June 26              | [Algorithm Analysis Activity Day] |
-| 13 |  Mon, June 29              | [Hash Table I] |
+| 13 |  Mon, June 29              | [Hash Tables] |
 | 14 |  Wed, July 1              | [Hash Table II]|  
 | -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
 | 15 |  Mon, July 6              | [Hash Table III]|
@@ -64,7 +64,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Arrays]: Lessons/Lesson4.md
 [Linked List I]: Lessons/Lesson5.md
 [Algorithm Analysis]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
+[Hash Tables]: Lessons/Lesson7.md
 [Lesson 8]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
