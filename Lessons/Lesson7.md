@@ -109,3 +109,5 @@ Think of coat checks...
 
 ## Lab Time
 
+[Hash Table Worksheet](https://docs.google.com/document/d/1O8nQjC7bbKF4M5wxoelVilJo5QYC6R0a/copy)
+
