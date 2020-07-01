@@ -75,7 +75,6 @@ class LinkedList:
         TODO: Best case running time: O(???) Why and under what conditions?
         TODO: Worst case running time: O(???) Why and under what conditions?"""
         # TODO: Loop through all nodes to find item, if present return True otherwise False
-        
 
     def delete(self, item):
         """Delete the given item from this linked list, or raise ValueError.
@@ -86,12 +85,10 @@ class LinkedList:
         # TODO: Otherwise raise error to tell user that delete has failed
         # Hint: raise ValueError('Item not found: {}'.format(item))
 
-        
-          
 if __name__ == "__main__":
     my_ll = LinkedList(["A", "B", "C"])
-
-   
+    print(my_ll)
 
     
+
 

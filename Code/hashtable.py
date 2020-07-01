@@ -8,11 +8,15 @@ class HashTable(object):
     def __init__(self, init_size=8):
         """Initialize this hash table with the given initial size."""
         # Create a new list (used as fixed-size array) of empty linked lists
-        self.buckets = [LinkedList() for _ in range(init_size)]
+        self.buckets = []
+        for i in range(init_size):
+            self.buckets.append(LinkedList())
 
     def __str__(self):
         """Return a formatted string representation of this hash table."""
-        items = ['{!r}: {!r}'.format(key, val) for key, val in self.items()]
+        items = []
+        for key, val in self.items():
+            items.append('{!r}: {!r}'.format(key, val))
         return '{' + ', '.join(items) + '}'
 
     def __repr__(self):
@@ -87,37 +91,6 @@ class HashTable(object):
         # TODO: Otherwise, raise error to tell user delete failed
         # Hint: raise KeyError('Key not found: {}'.format(key))
 
-
-def test_hash_table():
+if __name__ == '__main__':
     ht = HashTable()
     print('hash table: {}'.format(ht))
-
-    print('\nTesting set:')
-    for key, value in [('I', 1), ('V', 5), ('X', 10)]:
-        print('set({!r}, {!r})'.format(key, value))
-        ht.set(key, value)
-        print('hash table: {}'.format(ht))
-
-    print('\nTesting get:')
-    for key in ['I', 'V', 'X']:
-        value = ht.get(key)
-        print('get({!r}): {!r}'.format(key, value))
-
-    print('contains({!r}): {}'.format('X', ht.contains('X')))
-    print('length: {}'.format(ht.length()))
-
-    # Enable this after implementing delete method
-    delete_implemented = False
-    if delete_implemented:
-        print('\nTesting delete:')
-        for key in ['I', 'V', 'X']:
-            print('delete({!r})'.format(key))
-            ht.delete(key)
-            print('hash table: {}'.format(ht))
-
-        print('contains(X): {}'.format(ht.contains('X')))
-        print('length: {}'.format(ht.length()))
-
-
-if __name__ == '__main__':
-    test_hash_table()
