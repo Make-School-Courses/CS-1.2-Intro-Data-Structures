@@ -13,4 +13,6 @@
   - [HW3: Hash Tables](Lessons/HW3.md)
 - **Quizzes**
   - [Quiz 1 Study Guide](Lessons/Quiz1.md)
+  - [Quiz 2 Study Guide](Lessons/Quiz2.md)
+
 

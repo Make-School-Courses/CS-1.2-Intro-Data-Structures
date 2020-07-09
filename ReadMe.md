@@ -53,7 +53,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | 15 |  Mon, July 6              | [Hash Table III]|
 | 16 |  Wed, July 8                 | [Hash Table Algorithm Analysis] |
 | 17 |  Fri, July 10                  | [Hash Table Activity Day] |
-| 18 |  Mon, July 13                  | [Tweet Generator Code Along] |
+| 18 |  Mon, July 13                  | [Quiz 2] [Tweet Generator Code Along] |
 | 19 |  Wed, July 15                 | [Tweet Generator Code Along] |
 | 20 |  Fri, July 17                 | Wrap Up |
 
@@ -74,6 +74,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Lesson 14]: Lessons/Lesson14.md
 
 [Quiz 1]: Lessons/Quiz1.md
+[Quiz 2]: Lessons/Quiz2.md
 
 
 ## Assignment Schedule 
