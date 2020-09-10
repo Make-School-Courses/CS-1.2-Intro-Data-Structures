@@ -10,6 +10,12 @@ A project based course that looks under the hood at data structures and algorith
 1. Submit all assignments on [Gradescope](https://www.gradescope.com/courses/76995)
 1. Course recordings and videos can be found [here]()
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Objectives
 
 By the end of this course, students will be able to:
@@ -98,6 +104,12 @@ To pass this course, students must meet the following requirements:
 - Attempt all three quizzes and pass at least 2/3 quizzes
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
