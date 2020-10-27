@@ -34,7 +34,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | Class |          Date          |                 Topics                  | Assignments | 
 |:-----:|:----------------------:|:---------------------------------------:|:--------:|
 |  1 |  Thu, Oct 22               | [Arrays & Linked Lists] |
-|  2 |  Tue, Oct 27               | Algorithm Analysis | 
+|  2 |  Tue, Oct 27               | [Algorithm Analysis] | 
 |  3 |  Thu, Oct 29               | Recursion & Search Algorithms | Due: Music Playlist
 |  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
 |  4 |  Thu, Nov 5               | Stacks & Queues| 
@@ -50,6 +50,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | 13 |  Thu, Dec 10                | Lab Day | Due: Final Graph Project
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
+[Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
 
 
 
