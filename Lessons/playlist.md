@@ -1,6 +1,6 @@
 # Music Playlist
 
-Due: 
+Due: November 06 2020 at 11 pm PST
 
 Assignment on Gradescope: [Here](https://www.gradescope.com/courses/202248/assignments/803584)
 
@@ -38,6 +38,7 @@ By completing this project, you should be able to…
 - Implement a delete_from_head() method to delete an item from the beginning of the linked list
 - Implement a delete_from_tail() method to delete an item from the end of the linked list
 - Implement a find(item) method that takes in one parameter item and returns True if found and False if not
+- Test your solution out by instantiation a LinkedList Object and calling all of the methods you implemented to make a list of your favorite songs
 
 ### Stretch Requirements/Challenges (Optional)
 1. Add a general delete(item) method that can delete an item anywhere in the list
