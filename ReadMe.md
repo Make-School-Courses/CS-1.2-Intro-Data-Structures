@@ -35,9 +35,9 @@ Students must pass the following course and demonstrate mastery of its competenc
 |:-----:|:----------------------:|:---------------------------------------:|:--------:|
 |  1 |  Thu, Oct 22               | [Arrays & Linked Lists] |
 |  2 |  Tue, Oct 27               | [Algorithm Analysis] | 
-|  3 |  Thu, Oct 29               | Recursion & Search Algorithms | Due: Music Playlist
+|  3 |  Thu, Oct 29               | Recursion & Search Algorithms | 
 |  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
-|  4 |  Thu, Nov 5               | Stacks & Queues| 
+|  4 |  Thu, Nov 5               | Stacks & Queues| Due: [Music Playlist]
 |  5 |  Tue, Nov 10               | Hash Tables | Due: Interview Prep 1 
 |  6 |  Thu, Nov 12               | Hash Tables | Quiz 1
 |  7 |  Tue, Nov 17              | Review Day | Due: Interview Prep 2
@@ -51,6 +51,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
 [Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
+[Music Playlist]: Lessons/playlist.md
 
 
 
