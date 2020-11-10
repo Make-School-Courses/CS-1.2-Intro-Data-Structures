@@ -38,7 +38,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  3 |  Thu, Oct 29               | [Recursion and Search Algorithms] | 
 |  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
 |  4 |  Thu, Nov 5               | [Stacks and Queues]| Due: [Music Playlist]
-|  5 |  Tue, Nov 10               | Hash Tables |  
+|  5 |  Tue, Nov 10               | [Hash Tables] |  
 |  6 |  Thu, Nov 12               | Hash Tables | Due: Interview Prep 1, Quiz 1
 |  7 |  Tue, Nov 17              | Review Day | Due: Interview Prep 2
 |  8 |  Thu, Nov 19              | Trees | 
@@ -55,6 +55,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Recursion and Search Algorithms]:https://docs.google.com/presentation/d/1qFDn7pWKxkHc1PWInQVxSGudzAbHuQDiXE2onEMxMQA/edit#slide=id.g9f11f32373_1_0
 
 [Stacks and Queues]: https://docs.google.com/presentation/d/1BdJaPgwYzBEbFw1tc_e8srf3lIotlcTQyB64IRMNsfc/edit#slide=id.ga76237554e_0_63
+
+[Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
 
 
