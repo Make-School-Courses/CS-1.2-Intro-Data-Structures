@@ -47,11 +47,12 @@ Students must pass the following course and demonstrate mastery of its competenc
 | 10 |  Tue, Dec 1              | Sorting Algorithms | 
 | 11 |  Thu, Dec 3              | Graphs | Due: Interview Prep 3
 | 12 |  Tue, Dec 8              | Graphs | 
-| 13 |  Thu, Dec 10                | Lab Day | Due: Final Graph Project
+| 13 |  Thu, Dec 10                | Lab Day | Due: [Final Graph Project]
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
 [Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
 [Music Playlist]: Lessons/playlist.md
+[Final Graph Project]: Lessons/graphproject.md
 [Recursion and Search Algorithms]:https://docs.google.com/presentation/d/1qFDn7pWKxkHc1PWInQVxSGudzAbHuQDiXE2onEMxMQA/edit#slide=id.g9f11f32373_1_0
 
 [Stacks and Queues]: https://docs.google.com/presentation/d/1BdJaPgwYzBEbFw1tc_e8srf3lIotlcTQyB64IRMNsfc/edit#slide=id.ga76237554e_0_63
@@ -59,15 +60,20 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
 
-
 ## Evaluation Criteria
 
 To pass this course, students must meet the following requirements:
 - Complete all assignments by the due dates listed above
-- Pass all assignments
+- Pass all projects with a score of 2 or higher (rubrics provided on assignment pages)
+    - Music Playlist
+    - Interview Prep 1,2,3
+    - Final Graph Project
+- Pass all 3 quizzes with a score of 70% or higher
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - If you are not passing for any assignment you have one week after feedback is received to fix any errors and resubmit for full points
+- You are allowed to submit assignments after the due date with instructor permission 
+- You are allowed to drop one coding challenge or quiz
 
 ##  Information Resources
 

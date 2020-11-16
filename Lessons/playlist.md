@@ -44,3 +44,7 @@ By completing this project, you should be able to…
 1. Add a general delete(item) method that can delete an item anywhere in the list
 1. Add a reverse() method that will reverse the linked list in place
 1. Modify your singly linked list to be a doubly linked list!
+
+## Rubric
+
+You can find the rubric for the Playlist project [here](https://docs.google.com/document/d/18EX0UCNB2AjkeLQ4JIh2JRq7vGynZpqk4EsJyAdgX9w/edit?usp=sharing)
