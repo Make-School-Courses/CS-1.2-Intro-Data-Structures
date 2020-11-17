@@ -39,14 +39,14 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
 |  4 |  Thu, Nov 5               | [Stacks and Queues]| Due: [Music Playlist]
 |  5 |  Tue, Nov 10               | [Hash Tables] |  
-|  6 |  Thu, Nov 12               | Hash Tables | Due: Interview Prep 1, Quiz 1
-|  7 |  Tue, Nov 17              | Review Day | Due: Interview Prep 2
+|  6 |  Thu, Nov 12               | Hash Tables |  Quiz 1
+|  7 |  Tue, Nov 17              | Review Day | 
 |  8 |  Thu, Nov 19              | Trees | 
-|  9 |  Tue, Nov 24              | Trees | Quiz 2
+|  9 |  Tue, Nov 24              | Trees | Due: Interview Prep 1, Quiz 2
 |  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
-| 10 |  Tue, Dec 1              | Sorting Algorithms | 
-| 11 |  Thu, Dec 3              | Graphs | Due: Interview Prep 3
-| 12 |  Tue, Dec 8              | Graphs | 
+| 10 |  Tue, Dec 1              | Sorting Algorithms | Due: Interview Prep 2
+| 11 |  Thu, Dec 3              | Graphs | 
+| 12 |  Tue, Dec 8              | Graphs | Due: Interview Prep 3
 | 13 |  Thu, Dec 10                | Lab Day | Due: [Final Graph Project]
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
