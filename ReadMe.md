@@ -39,10 +39,10 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
 |  4 |  Thu, Nov 5               | [Stacks and Queues]| Due: [Music Playlist]
 |  5 |  Tue, Nov 10               | [Hash Tables] |  
-|  6 |  Thu, Nov 12               | Hash Tables |  Quiz 1
+|  6 |  Thu, Nov 12               | [Hash Tables] |  Quiz 1
 |  7 |  Tue, Nov 17              | Review Day | 
-|  8 |  Thu, Nov 19              | Trees | 
-|  9 |  Tue, Nov 24              | Trees | Due: Interview Prep 1, Quiz 2
+|  8 |  Thu, Nov 19              | [Trees] | 
+|  9 |  Tue, Nov 24              | [Trees] | Due: Interview Prep 1, Quiz 2
 |  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
 | 10 |  Tue, Dec 1              | Sorting Algorithms | Due: Interview Prep 2
 | 11 |  Thu, Dec 3              | Graphs | 
@@ -59,6 +59,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 [Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
+[Trees]: https://docs.google.com/presentation/d/16tCYlSxXg-b6ntPl1FllD-Oi7vDtqB9XVFuSQLOxwHc/edit#slide=id.gac88f69591_0_397
 
 ## Evaluation Criteria
 
