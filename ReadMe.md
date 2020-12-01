@@ -42,11 +42,11 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  6 |  Thu, Nov 12               | [Hash Tables] |  Quiz 1
 |  7 |  Tue, Nov 17              | Review Day | 
 |  8 |  Thu, Nov 19              | [Trees] | 
-|  9 |  Tue, Nov 24              | [Trees] | Due: Interview Prep 1, Quiz 2
+|  9 |  Tue, Nov 24              | [Trees] | Due: Interview Prep 1
 |  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
-| 10 |  Tue, Dec 1              | Sorting Algorithms | Due: Interview Prep 2
-| 11 |  Thu, Dec 3              | Graphs | 
-| 12 |  Tue, Dec 8              | Graphs | Due: Interview Prep 3
+| 10 |  Tue, Dec 1              | [Sorting Algorithms] | 
+| 11 |  Thu, Dec 3              | Graphs | Quiz 2
+| 12 |  Tue, Dec 8              | Graphs | Due: Interview Prep 2
 | 13 |  Thu, Dec 10                | Lab Day | Due: [Final Graph Project]
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
@@ -60,6 +60,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
 [Trees]: https://docs.google.com/presentation/d/16tCYlSxXg-b6ntPl1FllD-Oi7vDtqB9XVFuSQLOxwHc/edit#slide=id.gac88f69591_0_397
+
+[Sorting Algorithms]:https://docs.google.com/presentation/d/1tfKbsDkx-2cOZzjkGOT8rjN8dUDTfyvJCwMLxqxm5Fs/edit#slide=id.gaeb2fdf359_0_542
 
 ## Evaluation Criteria
 
