@@ -1,1 +1,1 @@
-Graph Project info coming soon!
+To complete the final graph project refer to these [project specs](https://docs.google.com/document/d/1KIi-KBvGkLo6epwZ36A_37yIv7QSU7u9gKbDYgXFPyw/edit?usp=sharing) and the activities we will do in class. 
