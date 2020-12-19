@@ -1,4 +1,4 @@
-# CS 1.2: Intro to Data Structures
+# CS 1.2: Introduction to Data Structures
 
 ## Course Description
 
@@ -6,18 +6,19 @@ A course that looks under the hood at data structures and algorithms to see how 
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: online | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Objectives
 
 By the end of this course, students will be able to:
-1.   Create Python programs that read and write text files and manipulate strings
-2.   Implement core data structures including singly linked lists and hash tables
-4.   Construct and sample probability distributions based on observed word frequencies
-6.   Use unit tests that assert correct behavior of functions and classes
-7.   Analyze the complexity of iterative algorithms and data structures with visual loop counting
+
+1. Implement core linear and non-linear data structures.
+1. Understand the advantages and applications of different data structures.
+1. Implement search and soring alogirthms and analyze their complexities.
+1. Solve open ended real-world and interview problems and select appropriate data structures/algorithms based on requirements. 
+
 
 ## Prerequisites
 
@@ -27,27 +28,31 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 ## Class Schedule
 
-**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
+**Course Dates:** 
+* Section A: Tuesday, January 19 – Thursday, March 4, 2020 (7 weeks)
+* Section B: Wednesday, January 20 – Wednesday, March 3, 2020 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
+**Class Times:**
+* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
+* Section B: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
 
-| Class |          Date          |                 Topics                  | Assignments | 
-|:-----:|:----------------------:|:---------------------------------------:|:--------:|
-|  1 |  Thu, Oct 22               | [Arrays & Linked Lists] |
-|  2 |  Tue, Oct 27               | [Algorithm Analysis] | 
-|  3 |  Thu, Oct 29               | [Recursion and Search Algorithms] | 
-|  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
-|  4 |  Thu, Nov 5               | [Stacks and Queues]| Due: [Music Playlist]
-|  5 |  Tue, Nov 10               | [Hash Tables] |  
-|  6 |  Thu, Nov 12               | [Hash Tables] |  Quiz 1
-|  7 |  Tue, Nov 17              | Review Day | 
-|  8 |  Thu, Nov 19              | [Trees] | 
-|  9 |  Tue, Nov 24              | [Trees] | Due: Interview Prep 1
-|  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
-| 10 |  Tue, Dec 1              | [Sorting Algorithms] | 
-| 11 |  Thu, Dec 3              | [Graphs] | Quiz 2
-| 12 |  Tue, Dec 8              | [Graphs] | Due: Interview Prep 2
-| 13 |  Thu, Dec 10                | Lab Day | Due: [Final Graph Project]
+| Class |                         Date                            |                 Topics                  | Assignments | 
+|:-----:|:-------------------------------------------------------:|:---------------------------------------:|:--------:|
+|  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**  |
+|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | Algorithm Analysis | 
+|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Stacks and Queues | 
+|  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Linked Lists |
+|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2    | Recursion |
+|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4    | Search Algorithms |  
+|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9    | Sorting Algorithms |  
+|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11   | Hash Tables | 
+|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Hash Tables | 
+|  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees | 
+|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Trees |
+|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs | 
+|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2    | Graphs | 
+|  13   |  Section A: Wed, Mar 3  <br> Section B:  Tue, Mar 4    | Review and Lab | 
+
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
 [Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
