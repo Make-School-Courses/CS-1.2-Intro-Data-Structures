@@ -36,22 +36,22 @@ Students must pass the following course and demonstrate mastery of its competenc
 * Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
 * Section B: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
 
-| Class |                         Date                            |           Topics            | Assignments | 
-|:-----:|:-------------------------------------------------------:|:---------------------------:|:-----------:|
-|  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**      |
-|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | Algorithm Analysis          | 
-|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Stacks and Queues           | 
-|  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Linked Lists                |
-|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Recursion                   |
-|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Search Algorithms           |  
-|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Sorting Algorithms          |  
-|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                 | 
-|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Hash Tables                 | 
-|  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                       | 
-|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Trees                       |
-|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                      | 
-|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Graphs                      | 
-|  13   |  Section A: Wed, Mar 3  <br> Section B:  Tue, Mar 4     | Review and Lab              | 
+| Class |                         Date                            |           Topics              | Assignments | 
+|:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
+|  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**        |
+|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | Stacks and Queues             | 
+|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Linked Lists                  | Assignment 1
+|  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Search Algorithms & Recursion | 
+|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
+|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2
+|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     |                               | 
+|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
+|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Hash Tables                   | Assignment 3
+|  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                         | 
+|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Trees                         |
+|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Assignment 4
+|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Graphs                        | 
+|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Review and Lab                | 
 
 
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
