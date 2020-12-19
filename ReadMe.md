@@ -70,20 +70,42 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 [Graphs]:https://docs.google.com/presentation/d/1qpp_EbPWoQgG4knv3QGwYvBShjxwJ2k0WAP8tkqp6Ck/edit#slide=id.g7867ca909e_0_166
 
-## Evaluation Criteria
+## Assignment Submissions
 
-To pass this course, students must meet the following requirements:
-- Complete all assignments by the due dates listed above
-- Pass all projects with a score of 2 or higher (rubrics provided on assignment pages)
-    - Music Playlist
-    - Interview Prep 1,2,3
-    - Final Graph Project
-- Pass all 3 quizzes with a score of 70% or higher
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
-- If you are not passing for any assignment you have one week after feedback is received to fix any errors and resubmit for full points
-- You are allowed to submit assignments after the due date with instructor permission 
-- You are allowed to drop one coding challenge or quiz
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
+
+
+## Evaluation
+
+To pass this course you must meet the following requirements:
+
+- Complete all in-class coding challenges. 
+- If a coding challenge is missing, you will need to request to receive a retake/extension. 
+- Pass all assignments with a score 70% or higher.
+- All assignments are scored according to the associated assignment rubric.
+- If an assignment is not passing, you will need to request to receive a retake/extension to bring you score up to passing.
+- Actively participate in class and abide by the attendance policy.
+- Make up all classwork from all absences.
+
+
+## How to Get Help
+**Office Hours:** \
+Instructor: By appointment.\
+TAs: See Slack.
+
+**Piazza:** \
+The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
+[Ask a question on Piazza →](https://make.sc/cs1.2-piazza)
+
+**CoWork:** \
+CoWork is a place to study with your peers with access to staff/TA support if needed. \
+*Tuesdays at 12:45-1:45pm PST and Thursdays at 1:30-2:30pm PST*
+
 
 ##  Information Resources
 
