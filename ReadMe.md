@@ -40,16 +40,16 @@ Students must pass the following course and demonstrate mastery of its competenc
 |:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
 |  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**        |
 |  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | Stacks and Queues             | 
-|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Linked Lists                  | Assignment 1 <br/> [Project Prompt]() • [Gradescope]() <br/> due TBD
+|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Linked Lists                  | Assignment 1 <br/> [Project Prompt]() • [Gradescope]() <br/> due Tue, Feb 2 @ 11pm PST
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Search Algorithms & Recursion | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
-|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2 <br/> [Project Prompt]() • [Gradescope]() <br/> due TBD
+|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2 <br/> [Project Prompt]() • [Gradescope]() <br/> due Thu, Feb 11 @ 11pm PST
 |  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Hash Tables                   | 
 |  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
-|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Trees                         | Assignment 3 <br/> [Project Prompt]() • [Gradescope]() <br/> due TBD
+|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Trees                         | Assignment 3 <br/> [Project Prompt]() • [Gradescope]() <br/> due Tue, Feb 23 @ 11pm PST
 |  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                         | 
 |  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Graphs                        |
-|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Assignment 4 <br/> [Project Prompt]() • [Gradescope]() <br/> due TBD
+|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Assignment 4 <br/> [Project Prompt]() • [Gradescope]() <br/> due Thu, Mar 4 @ 11pm PST
 |  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Special Topic                 | 
 |  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Review and Lab                | 
 
