@@ -44,13 +44,13 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Search Algorithms & Recursion | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
 |  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2
-|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     |                               | 
+|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Hash Tables                   | 
 |  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
-|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Hash Tables                   | Assignment 3
+|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Trees                         | Assignment 3
 |  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                         | 
-|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Trees                         |
+|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Graphs                        |
 |  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Assignment 4
-|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Graphs                        | 
+|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Special Topic                 | 
 |  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Review and Lab                | 
 
 
