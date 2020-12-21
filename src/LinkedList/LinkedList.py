@@ -50,3 +50,4 @@ class LinkedList:
         self.head = current.getNext()
     else:
         previous.setNext(current.getNext())
+        
