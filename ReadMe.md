@@ -39,7 +39,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 | Class |                         Date                            |           Topics              | Assignments | 
 |:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
 |  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**        |
-|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | Stacks and Queues             | 
+|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | [Stacks and Queues]             | 
 |  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Linked Lists                  | Assignment 1 <br/> [Project Prompt]() • [Gradescope]() <br/> due Tue, Feb 2 @ 11pm PST
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Search Algorithms & Recursion | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
@@ -60,7 +60,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Final Graph Project]: Lessons/graphproject.md
 [Recursion and Search Algorithms]:https://docs.google.com/presentation/d/1qFDn7pWKxkHc1PWInQVxSGudzAbHuQDiXE2onEMxMQA/edit#slide=id.g9f11f32373_1_0
 
-[Stacks and Queues]: https://docs.google.com/presentation/d/1BdJaPgwYzBEbFw1tc_e8srf3lIotlcTQyB64IRMNsfc/edit#slide=id.ga76237554e_0_63
+[Stacks and Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I/
 
 [Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
