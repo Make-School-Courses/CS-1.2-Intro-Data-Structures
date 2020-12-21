@@ -39,8 +39,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 | Class |                         Date                            |           Topics              | Assignments | 
 |:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
 |  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**        |
-|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | [Stacks and Queues]             | 
-|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | Linked Lists                  | Assignment 1 <br/> [Project Prompt]() • [Gradescope]() <br/> due Tue, Feb 2 @ 11pm PST
+|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | [Stacks & Queues]             | 
+|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | [Arrays & Linked Lists]                  | Assignment 1 <br/> [Project Prompt]() • [Gradescope]() <br/> due Tue, Feb 2 @ 11pm PST
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | Search Algorithms & Recursion | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
 |  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2 <br/> [Project Prompt]() • [Gradescope]() <br/> due Thu, Feb 11 @ 11pm PST
@@ -54,13 +54,13 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Review and Lab                | 
 
 
-[Arrays & Linked Lists]:https://docs.google.com/presentation/d/1166gIzsOn-fMl8UT2US6OCmYX3Z9XNP1Z0rjjKgzrhg/edit#slide=id.g7db18ff8bb_0_63
+[Arrays & Linked Lists]:https://docs.google.com/presentation/d/13aS2gdzdmcftyC0CQZUYJTflZGUO_jwZe8d03jSe12I/edit?usp=sharing
 [Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
 [Music Playlist]: Lessons/playlist.md
 [Final Graph Project]: Lessons/graphproject.md
 [Recursion and Search Algorithms]:https://docs.google.com/presentation/d/1qFDn7pWKxkHc1PWInQVxSGudzAbHuQDiXE2onEMxMQA/edit#slide=id.g9f11f32373_1_0
 
-[Stacks and Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I/
+[Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I/
 
 [Hash Tables]: https://docs.google.com/presentation/d/1WDzrB3fF68I8B5Zi54LwPXvd_sGlq4SXyXDuwT2IPY8/edit#slide=id.ga99f0fc9c3_1_102
 
