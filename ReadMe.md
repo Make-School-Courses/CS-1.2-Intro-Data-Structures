@@ -95,8 +95,8 @@ To pass this course you must meet the following requirements:
 
 ## How to Get Help
 **Office Hours:** \
-Instructor: By appointment.\
-TAs: See Slack.
+Instructor: By appointment. Contact your instructor through slack to set up an appointment\
+TAs: TA office hours can be found at [make.sc/ta-schedule](make.sc/ta-schedule). If you cannot meet them during office hours, contact your TA through slack to see if they can meet outside of office hours.
 
 **Piazza:** \
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
@@ -104,7 +104,7 @@ The best way to get answers is to ask questions! Ask questions on Piazza so ever
 
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
-*Tuesdays at 12:45-1:45pm PST and Thursdays at 1:30-2:30pm PST*
+*Check your calendar for when CoWork is oferred, or contact Ian or Lisa. Join at [make.sc/cowork-zoom](make.sc/cowork-zoom)*
 
 
 ##  Information Resources
