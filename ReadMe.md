@@ -14,10 +14,12 @@ A course that looks under the hood at data structures and algorithms to see how 
 
 By the end of this course, students will be able to:
 
-1. Implement core linear and non-linear data structures.
+1. Implement linear and non-linear data structures, including: stacks, queues, singly linked lists, hash tables, trees, and graphs.
 1. Understand the advantages and applications of different data structures.
-1. Implement search and soring alogirthms and analyze their complexities.
+1. Implement iterative and recursive search and sorting algorithms.
+1. Analyze the time and space complexity of iterative and recursive algorithms.
 1. Solve open ended real-world and interview problems and select appropriate data structures/algorithms based on requirements. 
+
 
 
 ## Prerequisites
