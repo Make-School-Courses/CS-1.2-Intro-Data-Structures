@@ -31,8 +31,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 ## Class Schedule
 
 **Course Dates:** 
-* Section A: Tuesday, January 19 – Thursday, March 4, 2020 (7 weeks)
-* Section B: Wednesday, January 20 – Wednesday, March 3, 2020 (7 weeks)
+* Section A: Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
+* Section B: Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
 
 **Class Times:**
 * Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
