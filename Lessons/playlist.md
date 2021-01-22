@@ -8,6 +8,7 @@ In this project, you will be building a music playlist builder using a linked li
 ## Setup
 
 🚨 Before starting the assignment, watch [How to: Setup for a New Assignment](https://youtu.be/MCbDO8IpqZM).
+
 This tutorial walks you through how to set up a new repository, make commits, and push code to Github.
 
 
@@ -35,28 +36,28 @@ By completing this project, you should be able to…
 
 Download the [starter code from here](https://drive.google.com/drive/folders/1lt5yAG_RjQBtH3e0DdOuAg4Uf5x4kKs3?usp=sharing), which includes:
 
-1. main.py
-1. Playlist.py
-1. Song.py
+1. `main.py`
+1. `Playlist.py`
+1. `Song.py`
 
 
 Your goals are:
 
-1. Complete the `TODO`s in Song.py:
+1. Complete the `TODO`s in `Song.py`:
   - Create a getter method for the `title` attribute, called `get_title()`
-  - Create a setter method for the `title` attribute, called `set_title`. Make sure titles are type cased to strings and are **Title Cased**.
+  - Create a setter method for the `title` attribute, called `set_title()`. Make sure titles are type cased to strings and are **Title Cased**.
   - Create a getter method for the `next_song` attribute, called `get_next_song()`
   - Create a setter method for the `next_song` attribute, called `set_next_song()`.  Make sure titles are type cased to strings and are Title Cased.
-  - Using the `__str___` dunder method, return a string of the song title.
-  - Using the `__repr__` dunder method, return a string formatted as the following:`'Song Title -> Next Song Title'`
+  - Using the `__str___()` dunder method, return a string of the song title.
+  - Using the `__repr__()` dunder method, return a string formatted as the following:`'Song Title -> Next Song Title'`
 
-2. Complete the `TODO`s in Playlist.py:
+2. Complete the `TODO`s in `Playlist.p`y:
   - Create a method called `add_song()` that creates a `Song` object and adds it to the playlist. This method has one parameter called `title`.
   - Create a method called `find_song()` that searches for whether a song exists in the playlist and returns its index. The method has one parameter, `title`, which is the title of the song to be searched for. If the song is found, return its index. If not found, return `-1`.
-  - Create a method called `remove_song()` that removes a song from the playlist. This method takes one parameter, title, which is the song that should be removed. 
+  - Create a method called `remove_song()` that removes a song from the playlist. This method takes one parameter, `title`, which is the song that should be removed. 
   - Create a method called `length()`, which returns the number of songs in the playlist.
   - Create a method called `print_songs()` that prints a numbered list of the songs in the playlist.
-  - Test your solution by running the code in main.py and test all of the 5 options.
+  - Test your solution by running the code in `main.py` and test all of the 5 options.
 
 
 
