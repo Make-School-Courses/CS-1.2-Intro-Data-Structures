@@ -46,7 +46,7 @@ Your goals are:
   - Create a getter method for the `title` attribute, called `get_title()`
   - Create a setter method for the `title` attribute, called `set_title`. Make sure titles are type cased to strings and are **Title Cased**.
   - Create a getter method for the `next_song` attribute, called `get_next_song()`
-  - Create a setter method for the `next_song` attribute, called `set_next_song()`
+  - Create a setter method for the `next_song` attribute, called `set_next_song()`.  Make sure titles are type cased to strings and are Title Cased.
   - Using the `__str___` dunder method, return a string of the song title.
   - Using the `__repr__` dunder method, return a string formatted as the following:`'Song Title -> Next Song Title'`
 
