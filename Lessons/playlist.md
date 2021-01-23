@@ -51,7 +51,7 @@ Your goals are:
   - Using the `__str___()` dunder method, return a string of the song title.
   - Using the `__repr__()` dunder method, return a string formatted as the following:`'Song Title -> Next Song Title'`
 
-2. Complete the `TODO`s in `Playlist.p`y:
+2. Complete the `TODO`s in `Playlist.py`:
   - Create a method called `add_song()` that creates a `Song` object and adds it to the playlist. This method has one parameter called `title`.
   - Create a method called `find_song()` that searches for whether a song exists in the playlist and returns its index. The method has one parameter, `title`, which is the title of the song to be searched for. If the song is found, return its index. If not found, return `-1`.
   - Create a method called `remove_song()` that removes a song from the playlist. This method takes one parameter, `title`, which is the song that should be removed. 
