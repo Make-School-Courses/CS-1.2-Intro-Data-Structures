@@ -43,6 +43,30 @@ def selection_sort(lst):
 
 
 # Insertion Sort
+def insertion_sort(lst):
+    for i in range(1, len(lst)):
+        # Set key:
+        key = lst[i]
+
+        j = i - 1
+        while j >= 0 and lst[j] > key:
+            # Swap:
+            lst[j + 1] = lst[j]
+            lst[j] = key
+            
+            # Decrement 'j':
+            j -= 1
+
+    return lst
+
+
+array = [5, 2, 12, 12, 1]
+print("Original array: %s" % array)
+print("Sorted array: %s" % insertion_sort(array))
+
+
+
+
 
 
 # Merge Sort
@@ -86,6 +110,10 @@ def merge_sort(lst):
             j += 1
             k += 1
 
+	
+	
+	
+	
 # Quick Sort
 
 def quick_sort(lst):
