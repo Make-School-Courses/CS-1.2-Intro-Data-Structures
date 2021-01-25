@@ -45,7 +45,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | [Stacks & Queues]             | 
 |  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | [Arrays & Linked Lists]                  | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542) <br/> due Tue, Feb 2 @ 11pm PST
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | [Search Algorithms & Recursion] | 
-|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | Sorting Algorithms            |
+|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | [Sorting Algorithms]            |
 |  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Assignment 2 <br/> [Project Prompt]() • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) <br/> due Thu, Feb 11 @ 11pm PST
 |  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Hash Tables                   | 
 |  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
@@ -60,6 +60,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I/
 [Arrays & Linked Lists]:https://docs.google.com/presentation/d/13aS2gdzdmcftyC0CQZUYJTflZGUO_jwZe8d03jSe12I/edit?usp=sharing
 [Search Algorithms & Recursion]:https://docs.google.com/presentation/d/1Mk-FzOwiMZs5DaOZ0SSUtJcc3m0GyTe6zwcjmHKJIUE/edit?usp=sharing
+[Sorting Algorithms]:https://docs.google.com/presentation/d/17keVchV4c5biNh5Eqb9MKC0Kcoms6d_jqCc3_t2eh_A/
 
 
 [Algorithm Analysis]:https://docs.google.com/presentation/d/195VG9kyXou_jL1VX7w9R5dOJ76p0rek1jYqrWEnBf70/edit#slide=id.ga55ca9f4ae_0_83
