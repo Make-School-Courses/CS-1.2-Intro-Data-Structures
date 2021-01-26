@@ -12,7 +12,8 @@ class Playlist:
 
 
 
-  # TODO: Create a method called find_song that searches for whether a song exits in the playlist and returns its index. The method has one parameters, title, which is the title of the song to be searched for. If the song is found, return its index.
+  # TODO: Create a method called find_song that searches for whether a song exits in the playlist and returns its index.
+  # The method has one parameters, title, which is the title of the song to be searched for. If the song is found, return its index. Otherwise, return -1.
 
   def find_song(self, title):
     pass
