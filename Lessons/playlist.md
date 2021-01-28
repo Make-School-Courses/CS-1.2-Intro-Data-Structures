@@ -62,7 +62,7 @@ Your goals are:
 
 
 ### Stretch Challenges (Optional)
-1. Add a `delete_song(title)` method to the Playlist class that can delete a song from the playlist. After, add it to the options menu in main.py
+1. Add a `insert_song(title, index)` method to the Playlist class that creates a new song and adds it a specified index of the linked list.
 1. Add a `shuffle()` method to the Playlist class that shuffles the order of the Songs in the playlist. After, add it to the options menu in main.py
 1. Add a `reverse()` method that will reverse the linked list in place.
 
