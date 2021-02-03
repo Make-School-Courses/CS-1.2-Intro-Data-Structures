@@ -46,15 +46,15 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | [Arrays & Linked Lists]                  | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542) <br/> due Tue, Feb 2 @ 11pm PST
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | [Search Algorithms & Recursion] | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | [Sorting Algorithms]            |
-|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Algorithm Analysis            | Algorithms Problem Set <br/> [Project Prompt](https://www.gradescope.com/courses/217652/assignments/938596) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) <br/> due Thu, Feb 11 @ 11pm PST
+|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | Review Day            | Algorithms Problem Set <br/> [Project Prompt](https://www.gradescope.com/courses/217652/assignments/938596) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) <br/> due Thu, Feb 11 @ 11pm PST
 |  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Hash Tables                   | 
 |  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
 |  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Trees                         | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) <br/> due Tue, Feb 23 @ 11pm PST
 |  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                         | 
 |  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Graphs                        |
 |  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Assignment 4 <br/> [Project Prompt]() • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) <br/> due Thu, Mar 4 @ 11pm PST
-|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Special Topic                 | 
-|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Review and Lab                | 
+|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Algorithm Analysis                 | 
+|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Special Topic and Lab                | 
 
 
 [Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I
