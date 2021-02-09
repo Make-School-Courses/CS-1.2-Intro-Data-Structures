@@ -47,8 +47,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | [Search Algorithms & Recursion] | 
 |  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | [Sorting Algorithms]            |
 |  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | [Review Day]            | Algorithms Problem Set <br/> [Project Prompt](https://www.gradescope.com/courses/217652/assignments/938596) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) <br/> due Thu, Feb 11 @ 11pm PST
-|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | Hash Tables                   | 
-|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | Hash Tables                   | 
+|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | [Hash Tables]                   | 
+|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | [Hash Tables]                   | 
 |  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | Trees                         | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) <br/> due Tue, Feb 23 @ 11pm PST
 |  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | Trees                         | 
 |  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Graphs                        |
