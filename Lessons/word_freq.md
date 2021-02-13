@@ -24,7 +24,7 @@ This tutorial walks you through how to set up a new repository, make commits, an
 1. [Optional] Upload your video to Google Drive and share a link if Gradescope upload speeds are too slow.
 1. Submit the link to your repo and demo on [Gradescope](https://www.gradescope.com/courses/202248/assignments/803584).
 
-### Assignment Requirements:
+### Assignment Overview:
 
 Your program will do the following:
 * Count the number of occurrences of each word in the file.
@@ -57,6 +57,24 @@ Assumptions:
 * Punctuation is ignored. You can use a delimiter to ignore the following characters: `, . ; : - ? !`
 * Assume that the input file consists of letter-only words (That is, the file will not have words that contain apostrophes such as `isn’t` and `‘tis`).
 
+
+### Assignment Requirements:
+
+Download the [starter code from here](https://repl.it/@JoiAnderson2/Frequency-Counter-Starter-Code), which includes:
+
+`main.py`
+`HashTable.py`
+`LinkedList.py`
+`Node.py`
+`example.txt`
+
+Your goals are:
+
+Complete the `TODOs` in `HashTable.py`:
+
+1. `insert` - Should insert a key value pair into the hash table, where the key is the word and the value is a counter for the number of times the word appeared. When inserting a new word in the hash table, be sure to check if there is a Node with the same key in the table already. If so, you will need to update the existing Nodes value (i.e. its counter) by 1. If not, create a new Node.
+
+1. `print` - Traverse through the every Linked List in the table and print the key value pairs (formatted like the above example)
 
 
 
