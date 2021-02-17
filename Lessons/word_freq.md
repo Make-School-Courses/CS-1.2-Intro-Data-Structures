@@ -63,6 +63,8 @@ Assumptions:
 
 Download the [starter code from here](https://repl.it/@JoiAnderson2/Frequency-Counter-Starter-Code), which includes:
 
+[Click here to download zip file](https://repl.it/@JoiAnderson2/Frequency-Counter-Starter-Code.zip)
+
 * `main.py`
 * `HashTable.py`
 * `LinkedList.py`
