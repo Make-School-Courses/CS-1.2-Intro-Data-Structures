@@ -53,6 +53,7 @@ write: 1
 ```
 
 Assumptions:
+* The starter code handles all of the file I/O and string tokenization discussed below:
 * Words will be counted in a case-insensitive manner (For example, in the above example, `Erase` and `erase` are counted as the same word.)
 * Punctuation is ignored. You can use a delimiter to ignore the following characters: `, . ; : - ? !`
 * Assume that the input file consists of letter-only words (That is, the file will not have words that contain apostrophes such as `isn’t` and `‘tis`).
@@ -62,26 +63,29 @@ Assumptions:
 
 Download the [starter code from here](https://repl.it/@JoiAnderson2/Frequency-Counter-Starter-Code), which includes:
 
-`main.py`
-`HashTable.py`
-`LinkedList.py`
-`Node.py`
-`example.txt`
+* `main.py`
+* `HashTable.py`
+* `LinkedList.py`
+* `Node.py`
+* `example.txt`
 
 Your goals are:
 
 Complete the `TODOs` in `HashTable.py`:
 
-1. `insert` - Should insert a key value pair into the hash table, where the key is the word and the value is a counter for the number of times the word appeared. When inserting a new word in the hash table, be sure to check if there is a Node with the same key in the table already. If so, you will need to update the existing Nodes value (i.e. its counter) by 1. If not, create a new Node.
+1. `create_arr` - Complete the `create_arr` method in `HashTable.py`. Each element of the hash table (arr) is a linked list. This method creates an array (list) of a given size and populates each of its elements with a LinkedList object. Note: Doing `[LinkedList()] * size` does not work.
 
-1. `print` - Traverse through the every Linked List in the table and print the key value pairs (formatted like the above example)
+1. `hash_func` - Complete the `hash_func` method in `HashTable.py`. Create your own hash function. Hash functions are a function that turns each of these keys into an index value that we can use to decide where in our list each key:value pair should be stored. 
+
+1. `insert` - Complete the `insert` method in `HashTable.py`. Should insert a key value pair into the hash table, where the key is the word and the value is a counter for the number of times the word appeared. When inserting a new word in the hash table, be sure to check if there is a Node with the same key in the table already.
+
+1. `print_key_values` - Complete the `print_key_values` method in `HashTable.py`. Traverse through the every Linked List in the table and print the key value pairs (formatted like the above example)
 
 
 
 ### Stretch Challenges (Optional)
 1. Print the total number of distinct words at the beginning of your program.
 1. Offer the user a prompt to query the exact count of a particular word.
-1. Offer the user a prompt to delete a word that exists in your Hash Table. 
 
 
 
