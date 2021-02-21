@@ -18,3 +18,4 @@
     - [Frequency Counting](Lessons/word_freq.md) 
     - [Data Structures Problem Set](https://www.gradescope.com/courses/217652/assignments/938601)
 
+* **[Gradescope](https://www.gradescope.com/courses/217652)**
