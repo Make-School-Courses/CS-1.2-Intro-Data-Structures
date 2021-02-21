@@ -51,8 +51,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | [Hash Tables]                   | 
 |  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | [Trees]                         | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) <br/> due Fri, Feb 26 @ 11pm PST
 |  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | [Trees]                         | 
-|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | Graphs                        |
-|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | Graphs                        | Data Structures Problem Set <br/> [Project Prompt]() • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) <br/> due Thu, Mar 4 @ 11pm PST
+|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | [Graphs]                        |
+|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | [Graphs]                        | Data Structures Problem Set <br/> [Project Prompt]() • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) <br/> due Thu, Mar 4 @ 11pm PST
 |  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Algorithm Analysis                 | 
 |  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Special Topic and Lab                | 
 
