@@ -54,7 +54,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 |  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | [Graphs]                        |
 |  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | [Graphs]                        | Data Structures Problem Set <br/> [Project Prompt]() • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) <br/> due Thu, Mar 4 @ 11pm PST
 |  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | Algorithm Analysis                 | 
-|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     | Special Topic and Lab                | 
+|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     |  Lab                | 
 
 
 [Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I
