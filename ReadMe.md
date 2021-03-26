@@ -32,18 +32,16 @@ Students must pass the following course and demonstrate mastery of its competenc
 ## Class Schedule
 
 **Course Dates:** 
-* Section A: Tuesday, January 19 – Thursday, March 4, 2021 (7 weeks)
-* Section B: Wednesday, January 20 – Wednesday, March 3, 2021 (7 weeks)
+* Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
+
 
 **Class Times:**
-* Section A: Tuesday and Thursday at 9:30am–12:15pm PST (13 class sessions)
-* Section B: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
+Tuesday and Thursday at 2:40–5:30pm PST (13 class sessions)
 
 | Class |                         Date                            |           Topics              | Assignments | 
 |:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
-
 |  1    |    Thu, March 30    | [Stacks & Queues]             | 
-|  -    |    Tue, March 30    | **No Class - ??? Day**        |
+|  -    |    Tue, March 30    | **No Class**        |
 |  2    |    Tue, April 6    | [Arrays & Linked Lists]        | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542)
 |  3    |   Thu, April 8    | [Search Algorithms & Recursion] | 
 |  4    |   Tue, April 13     | [Sorting Algorithms]          |
