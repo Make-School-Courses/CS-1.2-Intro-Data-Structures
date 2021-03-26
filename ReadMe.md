@@ -41,20 +41,21 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 | Class |                         Date                            |           Topics              | Assignments | 
 |:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
-|  -    |  Section A: Mon, Jan 18 <br> Section B:  Tue, Jan 19    | **No Class - MLK Day**        |
-|  1    |  Section A: Wed, Jan 20 <br> Section B:  Thu, Jan 21    | [Stacks & Queues]             | 
-|  2    |  Section A: Mon, Jan 25 <br> Section B:  Tue, Jan 26    | [Arrays & Linked Lists]                  | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542) <br/> due Tue, Feb 2 @ 11pm PST
-|  3    |  Section A: Wed, Jan 27 <br> Section B:  Thu, Jan 28    | [Search Algorithms & Recursion] | 
-|  4    |  Section A: Mon, Feb 1  <br> Section B:  Tue, Feb 2     | [Sorting Algorithms]            |
-|  5    |  Section A: Wed, Feb 3  <br> Section B:  Thu, Feb 4     | [Review Day]            | Algorithms Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) <br/> due Thu, Feb 11 @ 11pm PST
-|  6    |  Section A: Mon, Feb 8  <br> Section B:  Tue, Feb 9     | [Hash Tables]                   | 
-|  7    |  Section A: Wed, Feb 10 <br> Section B:  Thu, Feb 11    | [Hash Tables]                   | 
-|  8    |  Section A: Mon, Feb 15 <br> Section B:  Tue, Feb 16    | [Trees]                         | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) <br/> due Fri, Feb 26 @ 11pm PST
-|  9    |  Section A: Wed, Feb 17 <br> Section B:  Thu, Feb 18    | [Trees]                         | 
-|  10   |  Section A: Mon, Feb 22 <br> Section B:  Tue, Feb 23    | [Graphs]                        |
-|  11   |  Section A: Wed, Feb 24 <br> Section B:  Thu, Feb 25    | [Graphs]                        | Data Structures Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) <br/> due Thu, Mar 4 @ 11pm PST
-|  12   |  Section A: Mon, Mar 1  <br> Section B:  Tue, Mar 2     | [Algorithm Analysis]                 | 
-|  13   |  Section A: Wed, Mar 3  <br> Section B:  Thu, Mar 4     |  Lab                | 
+
+|  1    |    Thu, March 30    | [Stacks & Queues]             | 
+|  -    |    Tue, March 30    | **No Class - ??? Day**        |
+|  2    |    Tue, April 6    | [Arrays & Linked Lists]        | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542)
+|  3    |   Thu, April 8    | [Search Algorithms & Recursion] | 
+|  4    |   Tue, April 13     | [Sorting Algorithms]          |
+|  5    |    Thu, Apil 15     | [Review Day]            | Algorithms Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) 
+|  6    |    Tue, April 20     | [Hash Tables]                | 
+|  7    |   Thu, April 22    | [Hash Tables]                  | 
+|  8    |   Tue, April 27    | [Trees]                        | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) 
+|  9    |    Thu, April 29    | [Trees]                       | 
+|  10   |   Tue, May 4    | [Graphs]                          |
+|  11   |    Thu, May 6    | [Graphs]                         | Data Structures Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938601) 
+|  12   |    Tue, May 11     | [Algorithm Analysis]           | 
+|  13   |  Thu, May 13     |  Lab                             | 
 
 
 [Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I
