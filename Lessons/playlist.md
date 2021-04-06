@@ -5,13 +5,6 @@
 
 In this project, you will be building a music playlist builder using a linked list as the underlying data structure. Your playlist builder allows users to add new songs, remove songs, search for songs, and get the length of the playlist.
 
-## Setup
-
-🚨 Before starting the assignment, watch [How to: Setup for a New Assignment](https://youtu.be/MCbDO8IpqZM).
-
-This tutorial walks you through how to set up a new repository, make commits, and push code to Github.
-
-
 ## Learning Outcomes
 By completing this project, you should be able to…
 
