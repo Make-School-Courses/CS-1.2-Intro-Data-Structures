@@ -27,7 +27,7 @@ By completing this project, you should be able to…
 
 ### Assignment Requirements:
 
-Download the [starter code from here](https://repl.it/@JoiAnderson2/PlaylistLinkedList-StarterCode#main.py), which includes:
+Download the [starter code from here](https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/tree/master/src/PlaylistLinkedList-StarterCode), which includes:
 
 1. `main.py`
 1. `Playlist.py`
