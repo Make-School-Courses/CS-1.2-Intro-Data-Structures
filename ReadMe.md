@@ -104,8 +104,7 @@ To pass this course you must meet the following requirements:
 
 ## How to Get Help
 **Office Hours:** \
-Instructor: By appointment. Contact your instructor through slack to set up an appointment\
-TAs: TA office hours can be found at [make.sc/ta-schedule](make.sc/ta-schedule). If you cannot meet them during office hours, contact your TA through slack to see if they can meet outside of office hours.
+Come to CoWork (refer to college calenadr) to see your TAs and Instructor. But usually it's faster to get help by using Piazza! (read below).
 
 **Piazza:** \
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
@@ -117,7 +116,8 @@ CoWork is a place to study with your peers with access to staff/TA support if ne
 
 
 ##  Information Resources
-- Class textbook: **[Problem Solving with Algorithms and Data Structures using Python ](https://runestone.academy/runestone/books/published/pythonds/index.html)**
+- Class textbook: **[Problem Solving with Algorithms and Data Structures using Python ](https://runestone.academy/runestone/books/published/pythonds/index.html)**.
+
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
