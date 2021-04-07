@@ -117,7 +117,7 @@ CoWork is a place to study with your peers with access to staff/TA support if ne
 
 
 ##  Information Resources
-
+- Class textbook: **[Problem Solving with Algorithms and Data Structures using Python ](https://runestone.academy/runestone/books/published/pythonds/index.html)**
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
