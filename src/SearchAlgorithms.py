@@ -23,7 +23,7 @@ def binarySearch(lst, target):
   return found
       
       
-def binarySearch(lst, target):
+def binarySearch_recursion(lst, target):
   if len(lst) == 0:
 	  return False
   else:
@@ -32,7 +32,7 @@ def binarySearch(lst, target):
         return True
       else:
         if target<lst[midpoint]:
-          return binarySearch(lst[:midpoint],target)
+          return binarySearch_recursion(lst[:midpoint],target)
         else:
-          return binarySearch(lst[midpoint+1:],target)
+          return binarySearch_recursion(lst[midpoint+1:],target)
 
