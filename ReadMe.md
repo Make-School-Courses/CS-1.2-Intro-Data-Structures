@@ -38,12 +38,12 @@ Students must pass the following course and demonstrate mastery of its competenc
 **Class Times:**
 Tuesday and Thursday at 2:40–5:30pm PST (13 class sessions)
 
-| Class |                         Date                            |           Topics              | Assignments | 
-|:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|
-|  1    |    Thu, March 30    | [Stacks & Queues]             | 
+| Class |                         Date                            |           Topics              | Assignments | Textbook section |
+|:-----:|:-------------------------------------------------------:|:-----------------------------:|:-----------:|:-----------:|
+|  1    |    Thu, March 30    | [Stacks & Queues]           | - | [section 4.1 to 4.18] (including) |
 |  -    |    Tue, March 30    | **No Class**        |
-|  2    |    Tue, April 6    | [Arrays & Linked Lists]        | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542)
-|  3    |   Thu, April 8    | [Search Algorithms & Recursion] | 
+|  2    |    Tue, April 6    | [Arrays & Linked Lists]        | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542) | [section 4.19 to 4.27] (including) | 
+|  3    |   Thu, April 8    | [Search Algorithms & Recursion] | - | [section 6.2 to 6.4] (including)|
 |  4    |   Tue, April 13     | [Sorting Algorithms]          |
 |  5    |    Thu, Apil 15     | [Review Day]            | Algorithms Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) 
 |  6    |    Tue, April 20     | [Hash Tables]                | 
@@ -55,6 +55,11 @@ Tuesday and Thursday at 2:40–5:30pm PST (13 class sessions)
 |  12   |    Tue, May 11     | [Algorithm Analysis]           | 
 |  13   |  Thu, May 13     |  Lab                             | 
 
+[section 4.1 to 4.18]: https://runestone.academy/runestone/books/published/pythonds/index.html
+
+[section 4.19 to 4.27]: https://runestone.academy/runestone/books/published/pythonds/index.html
+
+[section 6.2 to 6.4]: https://runestone.academy/runestone/books/published/pythonds/index.html
 
 [Stacks & Queues]: https://docs.google.com/presentation/d/1_LBLE3oVDJGSyHZ284QsQHpsZre5qBsSJ0_wzI4St0I
 
