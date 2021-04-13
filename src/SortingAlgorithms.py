@@ -2,20 +2,18 @@
 # Code from Geek for Geeks
 
 def bubble_sort(lst): 
-	n = len(lst) 
+  n = len(lst) 
 
-	# Traverse through all list elements 
-	for i in range(n-1): 
-	# range(n) also work but outer loop will repeat one time more than needed. 
-
-		# Last i elements are already in place 
-		for j in range(0, n-i-1): 
-
-			# traverse the list from 0 to n-i-1 
-			# Swap if the element found is greater 
-			# than the next element 
-			if lst[j] > lst[j+1] : 
-				lst[j], lst[j+1] = lst[j+1], lst[j] 
+  # Traverse through all list elements 
+  for i in range(n-1): 
+  # range(n) also work but outer loop will repeat one time more than needed.
+  # Last i elements are already in place 
+    for j in range(0, n-i-1): 
+	  # traverse the list from 0 to n-i-1 
+	  # Swap if the element found is greater 
+	  # than the next element
+      if lst[j] > lst[j+1]: 
+          lst[j], lst[j+1] = lst[j+1], lst[j] 
 
 
 #######################################################
@@ -153,4 +151,3 @@ def quick_sort(lst):
     lst = left + [lst[current_position]] + right #Merging everything together
     
     return lst
-    
