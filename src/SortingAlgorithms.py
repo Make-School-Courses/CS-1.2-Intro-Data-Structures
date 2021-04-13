@@ -18,6 +18,7 @@ def bubble_sort(lst):
 				lst[j], lst[j+1] = lst[j+1], lst[j] 
 
 
+#######################################################
 
 # Selection Sort
 # Code from Educative
@@ -40,21 +41,31 @@ def selection_sort(lst):
     
   return lst
 
+########################################################
+# Insertion Sort (simple)
 
+def insertion_sort_simple(lst):
+  for i in range(1, len(lst)):
+      j = i
+      while j > 0 and lst[j-1] > lst[j]:
+          lst[j-1], lst[j] = lst[j], lst[j-1]
+          j = j - 1
+  return lst
 
-# Insertion Sort
+array = [5, 2, 12, 12, 1]
+print("Original array: %s" % array)
+print("Sorted array (using simple insertion sort): %s" % insertion_sort_simple(array))
+
+######################################################
+
+# Insertion Sort (slightly optimized)
 def insertion_sort(lst):
     for i in range(1, len(lst)):
-        # Set key:
         key = lst[i]
-
         j = i - 1
         while j >= 0 and lst[j] > key:
-            # Swap:
             lst[j + 1] = lst[j]
             lst[j] = key
-            
-            # Decrement 'j':
             j -= 1
 
     return lst
@@ -62,11 +73,10 @@ def insertion_sort(lst):
 
 array = [5, 2, 12, 12, 1]
 print("Original array: %s" % array)
-print("Sorted array: %s" % insertion_sort(array))
+print("Sorted array (slightly optimized): %s" % insertion_sort(array))
 
 
-
-
+#####################################################
 
 
 # Merge Sort
@@ -111,7 +121,7 @@ def merge_sort(lst):
             k += 1
 
 	
-	
+#################################################
 	
 	
 # Quick Sort
@@ -143,4 +153,4 @@ def quick_sort(lst):
     lst = left + [lst[current_position]] + right #Merging everything together
     
     return lst
-
+    
