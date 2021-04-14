@@ -45,7 +45,7 @@ Tuesday and Thursday at 2:40–5:30pm PST (13 class sessions)
 |  2    |    Tue, April 6    | [Arrays & Linked Lists]        | Music Playlist <br/> [Project Prompt](Lessons/playlist.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938542) | [section 4.19 to 4.27] (including) | 
 |  3    |   Thu, April 8    | [Search Algorithms & Recursion] | - | [section 6.2 to 6.4] (including)|
 |  4    |   Tue, April 13     | [Sorting Algorithms]          |
-|  5    |    Thu, Apil 15     | [Review Day]            | Algorithms Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/217652/assignments/938596) 
+|  5    |    Thu, Apil 15     | [Review Day]            | Algorithms Problem Set <br/> [Gradescope](https://www.gradescope.com/courses/250594/assignments/1055723) 
 |  6    |    Tue, April 20     | [Hash Tables]                | 
 |  7    |   Thu, April 22    | [Hash Tables]                  | 
 |  8    |   Tue, April 27    | [Trees]                        | Frequency Counting <br/> [Project Prompt](Lessons/word_freq.md) • [Gradescope](https://www.gradescope.com/courses/217652/assignments/938599) 
@@ -69,7 +69,7 @@ Tuesday and Thursday at 2:40–5:30pm PST (13 class sessions)
 
 [Sorting Algorithms]:https://docs.google.com/presentation/d/17keVchV4c5biNh5Eqb9MKC0Kcoms6d_jqCc3_t2eh_A
 
-[Review Day]:https://www.gradescope.com/courses/217652/assignments/990547
+[Review Day]:https://www.gradescope.com/courses/250594/assignments/1055723
 
 [Hash Tables]: https://docs.google.com/presentation/d/1ABMQ_WABDIQSxA7FFhJw9laITLmhXXoukJBb-cXtVyE
 
